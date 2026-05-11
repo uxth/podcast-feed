@@ -52,10 +52,15 @@ jobs:
           git add shows/*/feed.xml
           if git diff --staged --quiet; then
             echo "No feed.xml changes to commit"
-          else
-            git commit -m "chore(feeds): auto-regenerate RSS feeds [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "chore(feeds): auto-regenerate RSS feeds [skip ci]"
+          # v15 retry 3 次防 race condition (用户连续 push 会撞)
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retry in 5s..."
+            sleep 5
+          done
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
