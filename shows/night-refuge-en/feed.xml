@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/</link>
   <language>en-us</language>
   <copyright>© 2026 Night Refuge</copyright>
-  <lastBuildDate>Mon, 11 May 2026 19:16:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 11 May 2026 20:39:52 +0000</lastBuildDate>
   <description><![CDATA[Night Refuge — A bedtime shelter for the modern mind.
 
 8–12 minutes per episode. Gentle voice, ambient soundscape, soft guqin and lofi piano, guiding you to release the day's anxieties and slip into sleep.
@@ -66,6 +66,80 @@ Contact: dingqing1981@gmail.com]]></itunes:summary>
   <itunes:category text="Health &amp; Fitness"><itunes:category text="Mental Health" /></itunes:category>
   <itunes:category text="Education"><itunes:category text="Self-Improvement" /></itunes:category>
   <!-- AI disclosure: partly_ai_generated -->
+  <item>
+    <title>N03 Rainy Night Train - The Late Autumn Carriage</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N03.mp3</link>
+    <description><![CDATA[Tonight we board a slow night train in late autumn rain.
+
+You sit alone in the carriage.
+Warm yellow lamps. A few sleeping passengers. Outside, rain streaks down the glass and turns every light into a soft orange halo.
+The wheels tap softly on the rails — "tak-tak — tak-tak —"
+The wiper at the front sweeps once, then again, slowly.
+
+You lean against the window, draw your coat over your legs, and let the day fall behind you.
+Outside is a wet black field. Now and then a lonely distant house flashes by, and the rain erases it again.
+Your breath slows with the rhythm of the wheels — slower, slower —
+until only the rain remains, the wheels, and you.
+
+10 minutes of guided sleep meditation, with original guqin lofi piano + rain ambient + train wheel rhythm.
+Best listened to in bed, just before falling asleep.
+
+—— Night Refuge N03 ——
+
+This episode is AI-assisted.
+Feedback: dingqing1981@gmail.com]]></description>
+    <content:encoded><![CDATA[Tonight we board a slow night train in late autumn rain.
+
+You sit alone in the carriage.
+Warm yellow lamps. A few sleeping passengers. Outside, rain streaks down the glass and turns every light into a soft orange halo.
+The wheels tap softly on the rails — "tak-tak — tak-tak —"
+The wiper at the front sweeps once, then again, slowly.
+
+You lean against the window, draw your coat over your legs, and let the day fall behind you.
+Outside is a wet black field. Now and then a lonely distant house flashes by, and the rain erases it again.
+Your breath slows with the rhythm of the wheels — slower, slower —
+until only the rain remains, the wheels, and you.
+
+10 minutes of guided sleep meditation, with original guqin lofi piano + rain ambient + train wheel rhythm.
+Best listened to in bed, just before falling asleep.
+
+—— Night Refuge N03 ——
+
+This episode is AI-assisted.
+Feedback: dingqing1981@gmail.com]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N03</guid>
+    <pubDate>Mon, 11 May 2026 20:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N03.mp3" length="19774348" type="audio/mpeg" />
+    <itunes:title>N03 Rainy Night Train - The Late Autumn Carriage</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Tonight we board a slow night train in late autumn rain.
+
+You sit alone in the carriage.
+Warm yellow lamps. A few sleeping passengers. Outside, rain streaks down the glass and turns every light into a soft orange halo.
+The wheels tap softly on the rails — "tak-tak — tak-tak —"
+The wiper at the front sweeps once, then again, slowly.
+
+You lean against the window, draw your coat over your legs, and let the day fall behind you.
+Outside is a wet black field. Now and then a lonely distant house flashes by, and the rain erases it again.
+Your breath slows with the rhythm of the wheels — slower, slower —
+until only the rain remains, the wheels, and you.
+
+10 minutes of guided sleep meditation, with original guqin lofi piano + rain ambient + train wheel rhythm.
+Best listened to in bed, just before falling asleep.
+
+—— Night Refuge N03 ——
+
+This episode is AI-assisted.
+Feedback: dingqing1981@gmail.com]]></itunes:summary>
+    <itunes:subtitle>10 min guided sleep meditation</itunes:subtitle>
+    <itunes:duration>10:20</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+    <itunes:keywords>sleep,meditation,guided sleep,rainy night,train,rain sounds,late autumn,ambient</itunes:keywords>
+  </item>
   <item>
     <title>N01 The Cabin in the Mist — Mountain Hut Sleep Guide</title>
     <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N01.mp3</link>

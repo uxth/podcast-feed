@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/</link>
   <language>zh-cn</language>
   <copyright>© 2026 星泽</copyright>
-  <lastBuildDate>Mon, 11 May 2026 19:16:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 11 May 2026 20:39:52 +0000</lastBuildDate>
   <description><![CDATA[星泽 Star Mirror —— 写给焦虑你的星空回信。
 
 每集 7-10 分钟,慵懒神秘女声 + 星空环境音 + 古琴水晶钵共鸣,在深夜陪你安放无处投放的情绪。
@@ -60,6 +60,83 @@
   <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Spirituality" /></itunes:category>
   <itunes:category text="Health &amp; Fitness"><itunes:category text="Mental Health" /></itunes:category>
   <!-- AI disclosure: partly_ai_generated -->
+  <item>
+    <title>O02 白羊座 · 重新出发的勇气</title>
+    <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O02.mp3</link>
+    <description><![CDATA[今晚的星空属于白羊座。
+
+火,是白羊给我们的礼物——
+不是大火,只是想再亮一次的那点火。
+
+也许你最近,有些事想重新开始,又怕重新开始;
+有些路想再走一次,又怕再走一次。
+
+让我们在火星升起的位置,坐一会儿。
+不急着决定。只是,让那点想重新开始的火,
+慢慢地,被看见。
+
+7 分钟的心灵陪伴,配古琴 + 水晶钵 + 星空环境音。
+适合白天累了 / 转折期 / 想给自己一点点火的夜晚听。
+
+—— 星泽 O02 白羊座 ——
+
+本集是心灵护身,不是占卜预测。
+本集采用 AI 辅助制作。
+反馈:dingqing1981@gmail.com]]></description>
+    <content:encoded><![CDATA[今晚的星空属于白羊座。
+
+火,是白羊给我们的礼物——
+不是大火,只是想再亮一次的那点火。
+
+也许你最近,有些事想重新开始,又怕重新开始;
+有些路想再走一次,又怕再走一次。
+
+让我们在火星升起的位置,坐一会儿。
+不急着决定。只是,让那点想重新开始的火,
+慢慢地,被看见。
+
+7 分钟的心灵陪伴,配古琴 + 水晶钵 + 星空环境音。
+适合白天累了 / 转折期 / 想给自己一点点火的夜晚听。
+
+—— 星泽 O02 白羊座 ——
+
+本集是心灵护身,不是占卜预测。
+本集采用 AI 辅助制作。
+反馈:dingqing1981@gmail.com]]></content:encoded>
+    <guid isPermaLink="false">star-mirror-zh-O02</guid>
+    <pubDate>Mon, 11 May 2026 20:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O02.mp3" length="13474964" type="audio/mpeg" />
+    <itunes:title>O02 白羊座 · 重新出发的勇气</itunes:title>
+    <itunes:author>星泽</itunes:author>
+    <itunes:summary><![CDATA[今晚的星空属于白羊座。
+
+火,是白羊给我们的礼物——
+不是大火,只是想再亮一次的那点火。
+
+也许你最近,有些事想重新开始,又怕重新开始;
+有些路想再走一次,又怕再走一次。
+
+让我们在火星升起的位置,坐一会儿。
+不急着决定。只是,让那点想重新开始的火,
+慢慢地,被看见。
+
+7 分钟的心灵陪伴,配古琴 + 水晶钵 + 星空环境音。
+适合白天累了 / 转折期 / 想给自己一点点火的夜晚听。
+
+—— 星泽 O02 白羊座 ——
+
+本集是心灵护身,不是占卜预测。
+本集采用 AI 辅助制作。
+反馈:dingqing1981@gmail.com]]></itunes:summary>
+    <itunes:subtitle>7 分钟心灵护身电台 · 白羊星象</itunes:subtitle>
+    <itunes:duration>6:30</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg" />
+    <itunes:keywords>心灵成长,冥想,白羊座,星象映射,焦虑缓解,古琴,重新出发,火星</itunes:keywords>
+  </item>
   <item>
     <title>O01 写给焦虑的你 - 深夜的星空回信</title>
     <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O01.mp3</link>
