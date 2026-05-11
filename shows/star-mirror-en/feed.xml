@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+  <atom:link href="https://uxth.github.io/podcast-feed/shows/star-mirror-en/feed.xml" rel="self" type="application/rss+xml" />
+  <title>Star Mirror</title>
+  <link>https://uxth.github.io/podcast-feed/shows/star-mirror-en/</link>
+  <language>en-us</language>
+  <copyright>© 2026 Star Mirror</copyright>
+  <lastBuildDate>Mon, 11 May 2026 17:46:57 +0000</lastBuildDate>
+  <description><![CDATA[Star Mirror — A mirror for your inner stars.
+
+8-10 minute audio companion for anxious nights. Soft narration + cosmic ambient + guqin and crystal bowl resonance, offering you a moment of quiet to look inward when the day weighs heavy.
+
+Not fortune-telling. Not divination. Not advice.
+Just a slow, gentle reflection: you are not alone, and tonight you are seen.
+
+Each episode is framed by a star, a moon, or a constellation—not to predict your future, but to give your feelings a quiet shape.
+
+Host: Star Mirror
+Format: Second-person spiritual companion audio (English)
+Release: 2 episodes per week
+For: People navigating anxiety, transitions, late-night overthinking, ages 25-45.
+
+This show is AI-assisted: human-written narration outlines, AI voice synthesis, and original AI-generated ambient music.
+
+Contact: dingqing1981@gmail.com]]></description>
+  <itunes:author>Star Mirror</itunes:author>
+  <itunes:summary><![CDATA[Star Mirror — A mirror for your inner stars.
+
+8-10 minute audio companion for anxious nights. Soft narration + cosmic ambient + guqin and crystal bowl resonance, offering you a moment of quiet to look inward when the day weighs heavy.
+
+Not fortune-telling. Not divination. Not advice.
+Just a slow, gentle reflection: you are not alone, and tonight you are seen.
+
+Each episode is framed by a star, a moon, or a constellation—not to predict your future, but to give your feelings a quiet shape.
+
+Host: Star Mirror
+Format: Second-person spiritual companion audio (English)
+Release: 2 episodes per week
+For: People navigating anxiety, transitions, late-night overthinking, ages 25-45.
+
+This show is AI-assisted: human-written narration outlines, AI voice synthesis, and original AI-generated ambient music.
+
+Contact: dingqing1981@gmail.com]]></itunes:summary>
+  <itunes:subtitle>A mirror for your inner stars</itunes:subtitle>
+  <itunes:owner>
+    <itunes:name>Star Mirror</itunes:name>
+    <itunes:email>dingqing1981@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-en/cover.jpg" />
+  <image>
+    <url>https://uxth.github.io/podcast-feed/shows/star-mirror-en/cover.jpg</url>
+    <title>Star Mirror</title>
+    <link>https://uxth.github.io/podcast-feed/shows/star-mirror-en/</link>
+  </image>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Spirituality" /></itunes:category>
+  <itunes:category text="Health &amp; Fitness"><itunes:category text="Mental Health" /></itunes:category>
+  <!-- AI disclosure: partly_ai_generated -->
+  <item>
+    <title>O01 A Letter to You — When Anxiety Keeps You Awake</title>
+    <link>https://uxth.github.io/podcast-feed/shows/star-mirror-en/episodes/O01.mp3</link>
+    <description><![CDATA[Tonight, a letter for you.
+
+Not from someone who knows you, but from someone who has stayed awake too.
+
+When the day's worries follow you into bed, when your mind keeps spinning long after the lights go out — let me sit with you for a few minutes. No solving. No fixing. Just being here, while you breathe.
+
+A short meditation framed by stars and moonlight, with original guqin and crystal bowl ambient.
+
+—— Star Mirror O01 ——
+
+This episode is AI-assisted.
+Feedback: dingqing1981@gmail.com]]></description>
+    <content:encoded><![CDATA[Tonight, a letter for you.
+
+Not from someone who knows you, but from someone who has stayed awake too.
+
+When the day's worries follow you into bed, when your mind keeps spinning long after the lights go out — let me sit with you for a few minutes. No solving. No fixing. Just being here, while you breathe.
+
+A short meditation framed by stars and moonlight, with original guqin and crystal bowl ambient.
+
+—— Star Mirror O01 ——
+
+This episode is AI-assisted.
+Feedback: dingqing1981@gmail.com]]></content:encoded>
+    <guid isPermaLink="false">star-mirror-en-O01</guid>
+    <pubDate>Mon, 11 May 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/star-mirror-en/episodes/O01.mp3" length="12140219" type="audio/mpeg" />
+    <itunes:title>O01 A Letter to You — When Anxiety Keeps You Awake</itunes:title>
+    <itunes:author>Star Mirror</itunes:author>
+    <itunes:summary><![CDATA[Tonight, a letter for you.
+
+Not from someone who knows you, but from someone who has stayed awake too.
+
+When the day's worries follow you into bed, when your mind keeps spinning long after the lights go out — let me sit with you for a few minutes. No solving. No fixing. Just being here, while you breathe.
+
+A short meditation framed by stars and moonlight, with original guqin and crystal bowl ambient.
+
+—— Star Mirror O01 ——
+
+This episode is AI-assisted.
+Feedback: dingqing1981@gmail.com]]></itunes:summary>
+    <itunes:subtitle>7 min companion for the anxious heart</itunes:subtitle>
+    <itunes:duration>7:07</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-en/cover.jpg" />
+    <itunes:keywords>meditation,anxiety relief,spiritual,sleep meditation,guqin,ambient,crystal bowl,night companion</itunes:keywords>
+  </item>
+</channel>
+</rss>

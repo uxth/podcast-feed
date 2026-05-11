@@ -1,0 +1,37 @@
+# 星泽 (中文版) — Spotify/Apple/Amazon show metadata
+show_id: star-mirror-zh
+title: 星泽 - 心灵护身电台
+subtitle: 写给焦虑你的星空回信
+description: |
+  星泽 Star Mirror —— 写给焦虑你的星空回信。
+
+  每集 7-10 分钟,慵懒神秘女声 + 星空环境音 + 古琴水晶钵共鸣,在深夜陪你安放无处投放的情绪。
+  不算命,不占卜,不预测,不指点。
+  只是写给你的一封信:今晚,你不孤单。
+
+  每集围绕一颗星、一轮月、一个意象,把你的感觉慢慢拢回身体。
+
+  主创:星泽 (Star Mirror)
+  内容形式:第二人称心灵陪伴 / 情绪治愈 (中文版)
+  更新频率:每周 2 集
+  适合人群:焦虑、转折期、深夜想太多的你,25-45 岁
+
+  本节目采用 AI 辅助制作:人工撰写故事大纲 + AI 配音 + AI 生成原创 BGM。
+
+  联系: dingqing1981@gmail.com
+language: zh-cn
+country: CN
+author: 星泽
+owner_name: 星泽
+owner_email: dingqing1981@gmail.com
+copyright: "© 2026 星泽"
+itunes_category:
+  - text: Religion & Spirituality
+    subcategory: Spirituality
+  - text: Health & Fitness
+    subcategory: Mental Health
+explicit: false
+show_type: episodic
+ai_content_disclosure: partly_ai_generated
+cover_image: cover.jpg
+website: https://uxth.github.io/podcast-feed/shows/star-mirror-zh/

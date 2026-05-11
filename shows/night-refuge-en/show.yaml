@@ -1,0 +1,40 @@
+# Night Refuge (English) — Spotify/Apple/Amazon show metadata
+show_id: night-refuge-en
+title: Night Refuge
+subtitle: Bedtime shelter for the modern mind
+description: |
+  Night Refuge — A bedtime shelter for the modern mind.
+
+  8–12 minutes per episode. Gentle voice, ambient soundscape, soft guqin and lofi piano, guiding you to release the day's anxieties and slip into sleep.
+
+  No plot. No expectations. No instructions.
+  Just a quiet place you can return to every night:
+  A cabin in the mist. A pond beneath the moon. A deep autumn forest. A snowy window.
+
+  We're not here to hypnotize, lecture, or fix anything.
+  We're here to breathe with you, slow down with you, and offer a small refuge in the long hours of the night.
+
+  Host: Night Refuge
+  Format: Second-person guided sleep meditation (English)
+  Release: 2–3 episodes per week
+  For: Light sleepers, overthinkers, late-night phone scrollers — ages 25–45.
+
+  This show is AI-assisted: human-written narration outlines, AI voice synthesis, and original AI-generated ambient music.
+
+  Contact: dingqing1981@gmail.com
+language: en-us
+country: US
+author: Night Refuge
+owner_name: Night Refuge
+owner_email: dingqing1981@gmail.com
+copyright: "© 2026 Night Refuge"
+itunes_category:
+  - text: Health & Fitness
+    subcategory: Mental Health
+  - text: Education
+    subcategory: Self-Improvement
+explicit: false
+show_type: episodic
+ai_content_disclosure: partly_ai_generated
+cover_image: cover.jpg  # 1400×1400, ≤500KB
+website: https://uxth.github.io/podcast-feed/shows/night-refuge-en/

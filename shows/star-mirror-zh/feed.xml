@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+  <atom:link href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/feed.xml" rel="self" type="application/rss+xml" />
+  <title>星泽 - 心灵护身电台</title>
+  <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/</link>
+  <language>zh-cn</language>
+  <copyright>© 2026 星泽</copyright>
+  <lastBuildDate>Mon, 11 May 2026 17:46:57 +0000</lastBuildDate>
+  <description><![CDATA[星泽 Star Mirror —— 写给焦虑你的星空回信。
+
+每集 7-10 分钟,慵懒神秘女声 + 星空环境音 + 古琴水晶钵共鸣,在深夜陪你安放无处投放的情绪。
+不算命,不占卜,不预测,不指点。
+只是写给你的一封信:今晚,你不孤单。
+
+每集围绕一颗星、一轮月、一个意象,把你的感觉慢慢拢回身体。
+
+主创:星泽 (Star Mirror)
+内容形式:第二人称心灵陪伴 / 情绪治愈 (中文版)
+更新频率:每周 2 集
+适合人群:焦虑、转折期、深夜想太多的你,25-45 岁
+
+本节目采用 AI 辅助制作:人工撰写故事大纲 + AI 配音 + AI 生成原创 BGM。
+
+联系: dingqing1981@gmail.com]]></description>
+  <itunes:author>星泽</itunes:author>
+  <itunes:summary><![CDATA[星泽 Star Mirror —— 写给焦虑你的星空回信。
+
+每集 7-10 分钟,慵懒神秘女声 + 星空环境音 + 古琴水晶钵共鸣,在深夜陪你安放无处投放的情绪。
+不算命,不占卜,不预测,不指点。
+只是写给你的一封信:今晚,你不孤单。
+
+每集围绕一颗星、一轮月、一个意象,把你的感觉慢慢拢回身体。
+
+主创:星泽 (Star Mirror)
+内容形式:第二人称心灵陪伴 / 情绪治愈 (中文版)
+更新频率:每周 2 集
+适合人群:焦虑、转折期、深夜想太多的你,25-45 岁
+
+本节目采用 AI 辅助制作:人工撰写故事大纲 + AI 配音 + AI 生成原创 BGM。
+
+联系: dingqing1981@gmail.com]]></itunes:summary>
+  <itunes:subtitle>写给焦虑你的星空回信</itunes:subtitle>
+  <itunes:owner>
+    <itunes:name>星泽</itunes:name>
+    <itunes:email>dingqing1981@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg" />
+  <image>
+    <url>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg</url>
+    <title>星泽 - 心灵护身电台</title>
+    <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/</link>
+  </image>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Spirituality" /></itunes:category>
+  <itunes:category text="Health &amp; Fitness"><itunes:category text="Mental Health" /></itunes:category>
+  <!-- AI disclosure: partly_ai_generated -->
+  <item>
+    <title>O01 写给焦虑的你 - 深夜的星空回信</title>
+    <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O01.mp3</link>
+    <description><![CDATA[今晚,给你写一封信。
+
+不是从认识你的人,而是从同样睡不着的人。
+
+当白天的担心跟着你上床,当你关灯之后大脑还在转——
+让我陪你坐几分钟。不解决,不开导,什么都不修。
+就在这里,陪你呼吸。
+
+一段被星光和月色框住的短冥想,配古琴和水晶钵共鸣的原创环境音。
+
+—— 星泽 O01 ——
+
+本集采用 AI 辅助制作。
+反馈请发邮件:dingqing1981@gmail.com]]></description>
+    <content:encoded><![CDATA[今晚,给你写一封信。
+
+不是从认识你的人,而是从同样睡不着的人。
+
+当白天的担心跟着你上床,当你关灯之后大脑还在转——
+让我陪你坐几分钟。不解决,不开导,什么都不修。
+就在这里,陪你呼吸。
+
+一段被星光和月色框住的短冥想,配古琴和水晶钵共鸣的原创环境音。
+
+—— 星泽 O01 ——
+
+本集采用 AI 辅助制作。
+反馈请发邮件:dingqing1981@gmail.com]]></content:encoded>
+    <guid isPermaLink="false">star-mirror-zh-O01</guid>
+    <pubDate>Mon, 11 May 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O01.mp3" length="12538948" type="audio/mpeg" />
+    <itunes:title>O01 写给焦虑的你 - 深夜的星空回信</itunes:title>
+    <itunes:author>星泽</itunes:author>
+    <itunes:summary><![CDATA[今晚,给你写一封信。
+
+不是从认识你的人,而是从同样睡不着的人。
+
+当白天的担心跟着你上床,当你关灯之后大脑还在转——
+让我陪你坐几分钟。不解决,不开导,什么都不修。
+就在这里,陪你呼吸。
+
+一段被星光和月色框住的短冥想,配古琴和水晶钵共鸣的原创环境音。
+
+—— 星泽 O01 ——
+
+本集采用 AI 辅助制作。
+反馈请发邮件:dingqing1981@gmail.com]]></itunes:summary>
+    <itunes:subtitle>7 分钟心灵陪伴</itunes:subtitle>
+    <itunes:duration>7:33</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg" />
+    <itunes:keywords>心灵成长,冥想,焦虑缓解,助眠,古琴,环境音,水晶钵,深夜陪伴</itunes:keywords>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,38 @@
+# Star Mirror (English) — Spotify/Apple/Amazon show metadata
+show_id: star-mirror-en
+title: Star Mirror
+subtitle: A mirror for your inner stars
+description: |
+  Star Mirror — A mirror for your inner stars.
+
+  8-10 minute audio companion for anxious nights. Soft narration + cosmic ambient + guqin and crystal bowl resonance, offering you a moment of quiet to look inward when the day weighs heavy.
+
+  Not fortune-telling. Not divination. Not advice.
+  Just a slow, gentle reflection: you are not alone, and tonight you are seen.
+
+  Each episode is framed by a star, a moon, or a constellation—not to predict your future, but to give your feelings a quiet shape.
+
+  Host: Star Mirror
+  Format: Second-person spiritual companion audio (English)
+  Release: 2 episodes per week
+  For: People navigating anxiety, transitions, late-night overthinking, ages 25-45.
+
+  This show is AI-assisted: human-written narration outlines, AI voice synthesis, and original AI-generated ambient music.
+
+  Contact: dingqing1981@gmail.com
+language: en-us
+country: US
+author: Star Mirror
+owner_name: Star Mirror
+owner_email: dingqing1981@gmail.com
+copyright: "© 2026 Star Mirror"
+itunes_category:
+  - text: Religion & Spirituality
+    subcategory: Spirituality
+  - text: Health & Fitness
+    subcategory: Mental Health
+explicit: false
+show_type: episodic
+ai_content_disclosure: partly_ai_generated
+cover_image: cover.jpg
+website: https://uxth.github.io/podcast-feed/shows/star-mirror-en/

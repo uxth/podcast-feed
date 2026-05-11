@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+  <atom:link href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/feed.xml" rel="self" type="application/rss+xml" />
+  <title>Night Refuge</title>
+  <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/</link>
+  <language>en-us</language>
+  <copyright>© 2026 Night Refuge</copyright>
+  <lastBuildDate>Mon, 11 May 2026 17:46:57 +0000</lastBuildDate>
+  <description><![CDATA[Night Refuge — A bedtime shelter for the modern mind.
+
+8–12 minutes per episode. Gentle voice, ambient soundscape, soft guqin and lofi piano, guiding you to release the day's anxieties and slip into sleep.
+
+No plot. No expectations. No instructions.
+Just a quiet place you can return to every night:
+A cabin in the mist. A pond beneath the moon. A deep autumn forest. A snowy window.
+
+We're not here to hypnotize, lecture, or fix anything.
+We're here to breathe with you, slow down with you, and offer a small refuge in the long hours of the night.
+
+Host: Night Refuge
+Format: Second-person guided sleep meditation (English)
+Release: 2–3 episodes per week
+For: Light sleepers, overthinkers, late-night phone scrollers — ages 25–45.
+
+This show is AI-assisted: human-written narration outlines, AI voice synthesis, and original AI-generated ambient music.
+
+Contact: dingqing1981@gmail.com]]></description>
+  <itunes:author>Night Refuge</itunes:author>
+  <itunes:summary><![CDATA[Night Refuge — A bedtime shelter for the modern mind.
+
+8–12 minutes per episode. Gentle voice, ambient soundscape, soft guqin and lofi piano, guiding you to release the day's anxieties and slip into sleep.
+
+No plot. No expectations. No instructions.
+Just a quiet place you can return to every night:
+A cabin in the mist. A pond beneath the moon. A deep autumn forest. A snowy window.
+
+We're not here to hypnotize, lecture, or fix anything.
+We're here to breathe with you, slow down with you, and offer a small refuge in the long hours of the night.
+
+Host: Night Refuge
+Format: Second-person guided sleep meditation (English)
+Release: 2–3 episodes per week
+For: Light sleepers, overthinkers, late-night phone scrollers — ages 25–45.
+
+This show is AI-assisted: human-written narration outlines, AI voice synthesis, and original AI-generated ambient music.
+
+Contact: dingqing1981@gmail.com]]></itunes:summary>
+  <itunes:subtitle>Bedtime shelter for the modern mind</itunes:subtitle>
+  <itunes:owner>
+    <itunes:name>Night Refuge</itunes:name>
+    <itunes:email>dingqing1981@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  <image>
+    <url>https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg</url>
+    <title>Night Refuge</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/</link>
+  </image>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:category text="Health &amp; Fitness"><itunes:category text="Mental Health" /></itunes:category>
+  <itunes:category text="Education"><itunes:category text="Self-Improvement" /></itunes:category>
+  <!-- AI disclosure: partly_ai_generated -->
+  <item>
+    <title>N01 The Cabin in the Mist — Mountain Hut Sleep Guide</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N01.mp3</link>
+    <description><![CDATA[Tonight we go to a cabin in the mist.
+
+You don't have to walk far. You don't have to bring anything.
+Just close your eyes and follow the voice — the mountain mist will slowly part, and inside the cabin window, there is one warm lamp waiting.
+
+You can push the door open, and leave everything from the day outside.
+
+8 minutes of guided sleep meditation, with original guqin lofi piano and mountain ambient soundscape.
+
+Best listened to in bed, just before falling asleep.
+
+—— Night Refuge N01 ——
+
+This episode is AI-assisted.
+Feedback: dingqing1981@gmail.com]]></description>
+    <content:encoded><![CDATA[Tonight we go to a cabin in the mist.
+
+You don't have to walk far. You don't have to bring anything.
+Just close your eyes and follow the voice — the mountain mist will slowly part, and inside the cabin window, there is one warm lamp waiting.
+
+You can push the door open, and leave everything from the day outside.
+
+8 minutes of guided sleep meditation, with original guqin lofi piano and mountain ambient soundscape.
+
+Best listened to in bed, just before falling asleep.
+
+—— Night Refuge N01 ——
+
+This episode is AI-assisted.
+Feedback: dingqing1981@gmail.com]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N01</guid>
+    <pubDate>Mon, 11 May 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N01.mp3" length="14574594" type="audio/mpeg" />
+    <itunes:title>N01 The Cabin in the Mist — Mountain Hut Sleep Guide</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Tonight we go to a cabin in the mist.
+
+You don't have to walk far. You don't have to bring anything.
+Just close your eyes and follow the voice — the mountain mist will slowly part, and inside the cabin window, there is one warm lamp waiting.
+
+You can push the door open, and leave everything from the day outside.
+
+8 minutes of guided sleep meditation, with original guqin lofi piano and mountain ambient soundscape.
+
+Best listened to in bed, just before falling asleep.
+
+—— Night Refuge N01 ——
+
+This episode is AI-assisted.
+Feedback: dingqing1981@gmail.com]]></itunes:summary>
+    <itunes:subtitle>8 min guided sleep meditation</itunes:subtitle>
+    <itunes:duration>8:28</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+    <itunes:keywords>sleep,meditation,guided sleep,bedtime story for adults,ambient,mountain,guqin,lofi</itunes:keywords>
+  </item>
+</channel>
+</rss>

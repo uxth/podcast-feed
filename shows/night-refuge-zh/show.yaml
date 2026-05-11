@@ -1,0 +1,38 @@
+# 夜栖 (中文版) — Spotify/Apple/Amazon show metadata
+show_id: night-refuge-zh
+title: 夜栖 - 成人助眠故事
+subtitle: 写给成年人的睡前避难所
+description: |
+  夜栖 Night Refuge —— 写给成年人的睡前避难所。
+
+  每集 8-12 分钟，温柔旁白 + 深夜环境音 + 古琴 lofi 钢琴，引导失眠的你慢慢放下白天的焦虑。
+  不讲故事的剧情，只让你回到一个安静的地方：
+  雾中的木屋、月光下的潭水、深秋的森林、雪夜的窗口……
+
+  不催眠，不许愿,不教你做什么。
+  就陪你呼吸,陪你慢下来,陪你在夜里有一个可以歇脚的地方。
+
+  主创:夜栖
+  内容形式:第二人称引导式助眠 / 冥想脚本(中文版)
+  更新频率:每周 2-3 集
+  适合人群:失眠、焦虑、加班疲惫、睡前手机族(25-45 岁)
+
+  本节目采用 AI 辅助制作:人工撰写故事大纲 + AI 配音 + AI 生成原创 BGM。
+
+  联系: dingqing1981@gmail.com
+language: zh-cn
+country: CN
+author: 夜栖
+owner_name: 夜栖
+owner_email: dingqing1981@gmail.com
+copyright: "© 2026 夜栖"
+itunes_category:
+  - text: Health & Fitness
+    subcategory: Mental Health
+  - text: Education
+    subcategory: Self-Improvement
+explicit: false
+show_type: episodic
+ai_content_disclosure: partly_ai_generated
+cover_image: cover.jpg
+website: https://uxth.github.io/podcast-feed/shows/night-refuge-zh/

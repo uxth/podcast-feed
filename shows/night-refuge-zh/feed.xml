@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+  <atom:link href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/feed.xml" rel="self" type="application/rss+xml" />
+  <title>夜栖 - 成人助眠故事</title>
+  <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/</link>
+  <language>zh-cn</language>
+  <copyright>© 2026 夜栖</copyright>
+  <lastBuildDate>Mon, 11 May 2026 17:46:57 +0000</lastBuildDate>
+  <description><![CDATA[夜栖 Night Refuge —— 写给成年人的睡前避难所。
+
+每集 8-12 分钟，温柔旁白 + 深夜环境音 + 古琴 lofi 钢琴，引导失眠的你慢慢放下白天的焦虑。
+不讲故事的剧情，只让你回到一个安静的地方：
+雾中的木屋、月光下的潭水、深秋的森林、雪夜的窗口……
+
+不催眠，不许愿,不教你做什么。
+就陪你呼吸,陪你慢下来,陪你在夜里有一个可以歇脚的地方。
+
+主创:夜栖
+内容形式:第二人称引导式助眠 / 冥想脚本(中文版)
+更新频率:每周 2-3 集
+适合人群:失眠、焦虑、加班疲惫、睡前手机族(25-45 岁)
+
+本节目采用 AI 辅助制作:人工撰写故事大纲 + AI 配音 + AI 生成原创 BGM。
+
+联系: dingqing1981@gmail.com]]></description>
+  <itunes:author>夜栖</itunes:author>
+  <itunes:summary><![CDATA[夜栖 Night Refuge —— 写给成年人的睡前避难所。
+
+每集 8-12 分钟，温柔旁白 + 深夜环境音 + 古琴 lofi 钢琴，引导失眠的你慢慢放下白天的焦虑。
+不讲故事的剧情，只让你回到一个安静的地方：
+雾中的木屋、月光下的潭水、深秋的森林、雪夜的窗口……
+
+不催眠，不许愿,不教你做什么。
+就陪你呼吸,陪你慢下来,陪你在夜里有一个可以歇脚的地方。
+
+主创:夜栖
+内容形式:第二人称引导式助眠 / 冥想脚本(中文版)
+更新频率:每周 2-3 集
+适合人群:失眠、焦虑、加班疲惫、睡前手机族(25-45 岁)
+
+本节目采用 AI 辅助制作:人工撰写故事大纲 + AI 配音 + AI 生成原创 BGM。
+
+联系: dingqing1981@gmail.com]]></itunes:summary>
+  <itunes:subtitle>写给成年人的睡前避难所</itunes:subtitle>
+  <itunes:owner>
+    <itunes:name>夜栖</itunes:name>
+    <itunes:email>dingqing1981@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  <image>
+    <url>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg</url>
+    <title>夜栖 - 成人助眠故事</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/</link>
+  </image>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:category text="Health &amp; Fitness"><itunes:category text="Mental Health" /></itunes:category>
+  <itunes:category text="Education"><itunes:category text="Self-Improvement" /></itunes:category>
+  <!-- AI disclosure: partly_ai_generated -->
+  <item>
+    <title>N01 雾中的木屋 - 山脚下的小屋助眠引导</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N01.mp3</link>
+    <description><![CDATA[今晚我们去一个雾中的木屋。
+
+你不需要走多远,也不需要带任何东西。
+只要闭上眼睛,跟着声音走——
+山雾会慢慢散开,小屋的窗户里有一盏温暖的灯。
+你可以推开门,把白天的一切留在门外。
+
+8 分钟的引导式助眠,配古琴 lofi 钢琴 + 山雾环境音。
+适合上床后听,让大脑慢慢停下来。
+
+—— 夜栖 N01 ——
+
+本集采用 AI 辅助制作。
+反馈请发邮件:dingqing1981@gmail.com]]></description>
+    <content:encoded><![CDATA[今晚我们去一个雾中的木屋。
+
+你不需要走多远,也不需要带任何东西。
+只要闭上眼睛,跟着声音走——
+山雾会慢慢散开,小屋的窗户里有一盏温暖的灯。
+你可以推开门,把白天的一切留在门外。
+
+8 分钟的引导式助眠,配古琴 lofi 钢琴 + 山雾环境音。
+适合上床后听,让大脑慢慢停下来。
+
+—— 夜栖 N01 ——
+
+本集采用 AI 辅助制作。
+反馈请发邮件:dingqing1981@gmail.com]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N01</guid>
+    <pubDate>Mon, 11 May 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N01.mp3" length="15063710" type="audio/mpeg" />
+    <itunes:title>N01 雾中的木屋 - 山脚下的小屋助眠引导</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[今晚我们去一个雾中的木屋。
+
+你不需要走多远,也不需要带任何东西。
+只要闭上眼睛,跟着声音走——
+山雾会慢慢散开,小屋的窗户里有一盏温暖的灯。
+你可以推开门,把白天的一切留在门外。
+
+8 分钟的引导式助眠,配古琴 lofi 钢琴 + 山雾环境音。
+适合上床后听,让大脑慢慢停下来。
+
+—— 夜栖 N01 ——
+
+本集采用 AI 辅助制作。
+反馈请发邮件:dingqing1981@gmail.com]]></itunes:summary>
+    <itunes:subtitle>8 分钟引导式助眠</itunes:subtitle>
+    <itunes:duration>8:48</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+    <itunes:keywords>助眠,冥想,引导式助眠,成人睡前故事,环境音,山雾,古琴,lofi</itunes:keywords>
+  </item>
+</channel>
+</rss>
