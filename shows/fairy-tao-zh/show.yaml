@@ -1,0 +1,37 @@
+# 桃仙子讲故事 (中文版) — Spotify/Apple/Amazon show metadata
+show_id: fairy-tao-zh
+title: 桃仙子讲故事
+subtitle: 给孩子的双语睡前故事
+description: |
+  桃仙子讲故事 —— 给 2-6 岁孩子的睡前音频。
+
+  每集 6-8 分钟，由桃仙子姐姐讲述,带孩子走过好奇、善良、勇气、安静入眠的世界。温柔的旁白配柔和的音乐——不喊不闹,不晃眼,只有平静与温暖。
+
+  选题涵盖发光萤火虫、慢吞吞蜗牛、迷路月犊、勇敢小茶壶...... 每集都是原创故事（无公版改编）,质量对标 Cocomelon / Bluey / Ms Rachel YouTube Kids 头部水准。
+
+  原本为 YouTube Kids 制作的视频,音频版同一旁白,适合通勤、睡前、安静的周末午后聆听。
+
+  主持人:桃仙子姐姐
+  内容形式:单人旁白音频故事(中文版)
+  更新频率:每周 1-2 集
+  适合人群:2-6 岁孩子家长伴读 / 海外华裔双语家庭 / 通勤时间
+
+  本节目采用 AI 辅助制作:人工撰写原创故事 + AI 配音(一致角色) + AI 生成原创 BGM。
+
+  联系: dingqing1981@gmail.com
+language: zh-cn
+country: CN
+author: 桃仙子
+owner_name: 桃仙子
+owner_email: dingqing1981@gmail.com
+copyright: "© 2026 桃仙子讲故事"
+itunes_category:
+  - text: Kids & Family
+    subcategory: Stories for Kids
+  - text: Kids & Family
+    subcategory: Education for Kids
+explicit: false
+show_type: episodic
+ai_content_disclosure: partly_ai_generated
+cover_image: cover.jpg
+website: https://uxth.github.io/podcast-feed/shows/fairy-tao-zh/

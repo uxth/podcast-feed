@@ -1,0 +1,37 @@
+# Fairy Tao Stories (English) — Spotify/Apple/Amazon show metadata
+show_id: fairy-tao-en
+title: Fairy Tao Stories
+subtitle: Bilingual bedtime stories for curious little ones
+description: |
+  Fairy Tao Stories — Bedtime audio for children ages 2-6.
+
+  Each 6-8 minute story is told by Fairy Tao, a gentle storyteller who guides your child through wonder, kindness, courage, and quiet sleep. Original watercolor narration paired with soft music — no shouting, no flashing visuals, just calm and warmth.
+
+  Themes range from glowing fireflies and slow snails, to lost moon-calves and brave little teapots — every story written from scratch (no public-domain remix), tested for the YouTube Kids quality bar (Cocomelon / Bluey / Ms Rachel level).
+
+  Originally produced for YouTube Kids. Audio podcast version is identical narration, perfect for car rides, bedtime, and quiet weekend afternoons.
+
+  Host: Fairy Tao (姐姐 / Sister Tao)
+  Format: Single-narrator audio storytelling (English)
+  Release: 1-2 episodes per week
+  For: Parents reading to ages 2-6 / ESL families / commute-time listening
+
+  This show is AI-assisted: human-written original stories, AI voice synthesis (consistent voice persona), and original AI-generated background music.
+
+  Contact: dingqing1981@gmail.com
+language: en-us
+country: US
+author: Fairy Tao
+owner_name: Fairy Tao
+owner_email: dingqing1981@gmail.com
+copyright: "© 2026 Fairy Tao Stories"
+itunes_category:
+  - text: Kids & Family
+    subcategory: Stories for Kids
+  - text: Kids & Family
+    subcategory: Education for Kids
+explicit: false
+show_type: episodic
+ai_content_disclosure: partly_ai_generated
+cover_image: cover.jpg
+website: https://uxth.github.io/podcast-feed/shows/fairy-tao-en/
