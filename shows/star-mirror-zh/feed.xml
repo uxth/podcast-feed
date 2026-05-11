@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/</link>
   <language>zh-cn</language>
   <copyright>© 2026 星泽</copyright>
-  <lastBuildDate>Mon, 11 May 2026 18:51:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 11 May 2026 19:16:51 +0000</lastBuildDate>
   <description><![CDATA[星泽 Star Mirror —— 写给焦虑你的星空回信。
 
 每集 7-10 分钟,慵懒神秘女声 + 星空环境音 + 古琴水晶钵共鸣,在深夜陪你安放无处投放的情绪。
@@ -118,6 +118,38 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg" />
     <itunes:keywords>心灵成长,冥想,焦虑缓解,助眠,古琴,环境音,水晶钵,深夜陪伴</itunes:keywords>
+  </item>
+  <item>
+    <title>预告片 — 星泽</title>
+    <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/trailer.mp3</link>
+    <description><![CDATA[欢迎来到星泽 — 写给焦虑你的星空回信。
+
+8-10 分钟的深夜音频陪伴。不算命、不预测、不教你怎么办，只是借一颗星、一轮月、一封从同样睡不着的人写给你的信，陪你坐一会儿。
+
+今晚，你不孤单。点订阅。]]></description>
+    <content:encoded><![CDATA[欢迎来到星泽 — 写给焦虑你的星空回信。
+
+8-10 分钟的深夜音频陪伴。不算命、不预测、不教你怎么办，只是借一颗星、一轮月、一封从同样睡不着的人写给你的信，陪你坐一会儿。
+
+今晚，你不孤单。点订阅。]]></content:encoded>
+    <guid isPermaLink="false">star-mirror-zh-trailer</guid>
+    <pubDate>Mon, 11 May 2026 19:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/trailer.mp3" length="1230115" type="audio/mpeg" />
+    <itunes:title>预告片 — 星泽</itunes:title>
+    <itunes:author>星泽</itunes:author>
+    <itunes:summary><![CDATA[欢迎来到星泽 — 写给焦虑你的星空回信。
+
+8-10 分钟的深夜音频陪伴。不算命、不预测、不教你怎么办，只是借一颗星、一轮月、一封从同样睡不着的人写给你的信，陪你坐一会儿。
+
+今晚，你不孤单。点订阅。]]></itunes:summary>
+    <itunes:subtitle>写给焦虑你的星空回信</itunes:subtitle>
+    <itunes:duration>0:42</itunes:duration>
+    <itunes:episode>0</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>trailer</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg" />
+    <itunes:keywords>预告片,焦虑,深夜陪伴,灵性,古琴,水晶钵</itunes:keywords>
   </item>
 </channel>
 </rss>

@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/</link>
   <language>en-us</language>
   <copyright>© 2026 Night Refuge</copyright>
-  <lastBuildDate>Mon, 11 May 2026 18:51:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 11 May 2026 19:16:51 +0000</lastBuildDate>
   <description><![CDATA[Night Refuge — A bedtime shelter for the modern mind.
 
 8–12 minutes per episode. Gentle voice, ambient soundscape, soft guqin and lofi piano, guiding you to release the day's anxieties and slip into sleep.
@@ -127,6 +127,38 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
     <itunes:keywords>sleep,meditation,guided sleep,bedtime story for adults,ambient,mountain,guqin,lofi</itunes:keywords>
+  </item>
+  <item>
+    <title>Trailer — Night Refuge</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/trailer.mp3</link>
+    <description><![CDATA[Welcome to Night Refuge — a bedtime shelter for the modern mind.
+
+8-12 minute audio episodes with soft narration, ambient soundscape, and original guqin lofi piano. No plot, no expectations — just a quiet place to come home to when the day refuses to let go.
+
+Press subscribe and meet me in the quiet hours.]]></description>
+    <content:encoded><![CDATA[Welcome to Night Refuge — a bedtime shelter for the modern mind.
+
+8-12 minute audio episodes with soft narration, ambient soundscape, and original guqin lofi piano. No plot, no expectations — just a quiet place to come home to when the day refuses to let go.
+
+Press subscribe and meet me in the quiet hours.]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-trailer</guid>
+    <pubDate>Mon, 11 May 2026 19:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/trailer.mp3" length="1353532" type="audio/mpeg" />
+    <itunes:title>Trailer — Night Refuge</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Welcome to Night Refuge — a bedtime shelter for the modern mind.
+
+8-12 minute audio episodes with soft narration, ambient soundscape, and original guqin lofi piano. No plot, no expectations — just a quiet place to come home to when the day refuses to let go.
+
+Press subscribe and meet me in the quiet hours.]]></itunes:summary>
+    <itunes:subtitle>Welcome to Night Refuge — a bedtime shelter for the modern mind</itunes:subtitle>
+    <itunes:duration>0:42</itunes:duration>
+    <itunes:episode>0</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>trailer</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+    <itunes:keywords>trailer,sleep,meditation,bedtime story for adults,ambient,guqin</itunes:keywords>
   </item>
 </channel>
 </rss>

@@ -1,0 +1,25 @@
+# fairy-tao-en trailer episode metadata
+episode_id: trailer
+title: "Trailer — Fairy Tao Stories"
+subtitle: "Bedtime stories for curious little ones, ages 2-6"
+description: |
+  Hello, little ones — I'm Fairy Tao.
+  
+  Bedtime audio for children ages 2-6. Each 6-8 minute story is told by a gentle storyteller in the peach blossom forest, where the moon is always soft. No yelling, no flashing screens — just warmth, wonder, and one quiet voice on the way to sleep.
+  
+  Find us each week in your favorite podcast app.
+episode_number: 0
+season: 1
+episode_type: trailer
+explicit: false
+publish_date: 2026-05-11T19:00:00Z
+duration_seconds: 36
+audio_file: trailer.mp3
+audio_mime: audio/mpeg
+keywords:
+  - trailer
+  - kids
+  - bedtime story
+  - fairy tale
+  - ages 2-6
+  - storytelling

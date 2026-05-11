@@ -1,0 +1,25 @@
+# night-refuge-en trailer episode metadata
+episode_id: trailer
+title: "Trailer — Night Refuge"
+subtitle: "Welcome to Night Refuge — a bedtime shelter for the modern mind"
+description: |
+  Welcome to Night Refuge — a bedtime shelter for the modern mind.
+  
+  8-12 minute audio episodes with soft narration, ambient soundscape, and original guqin lofi piano. No plot, no expectations — just a quiet place to come home to when the day refuses to let go.
+  
+  Press subscribe and meet me in the quiet hours.
+episode_number: 0
+season: 1
+episode_type: trailer
+explicit: false
+publish_date: 2026-05-11T19:00:00Z
+duration_seconds: 42
+audio_file: trailer.mp3
+audio_mime: audio/mpeg
+keywords:
+  - trailer
+  - sleep
+  - meditation
+  - bedtime story for adults
+  - ambient
+  - guqin

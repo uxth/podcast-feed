@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/fairy-tao-en/</link>
   <language>en-us</language>
   <copyright>© 2026 Fairy Tao Stories</copyright>
-  <lastBuildDate>Mon, 11 May 2026 18:51:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 11 May 2026 19:16:51 +0000</lastBuildDate>
   <description><![CDATA[Fairy Tao Stories — Bedtime audio for children ages 2-6.
 
 Each 6-8 minute story is told by Fairy Tao, a gentle storyteller who guides your child through wonder, kindness, courage, and quiet sleep. Original watercolor narration paired with soft music — no shouting, no flashing visuals, just calm and warmth.
@@ -159,6 +159,38 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/fairy-tao-en/cover.jpg" />
     <itunes:keywords>bedtime story,kids,firefly,bilingual,sleep,storytelling,children</itunes:keywords>
+  </item>
+  <item>
+    <title>Trailer — Fairy Tao Stories</title>
+    <link>https://uxth.github.io/podcast-feed/shows/fairy-tao-en/episodes/trailer.mp3</link>
+    <description><![CDATA[Hello, little ones — I'm Fairy Tao.
+
+Bedtime audio for children ages 2-6. Each 6-8 minute story is told by a gentle storyteller in the peach blossom forest, where the moon is always soft. No yelling, no flashing screens — just warmth, wonder, and one quiet voice on the way to sleep.
+
+Find us each week in your favorite podcast app.]]></description>
+    <content:encoded><![CDATA[Hello, little ones — I'm Fairy Tao.
+
+Bedtime audio for children ages 2-6. Each 6-8 minute story is told by a gentle storyteller in the peach blossom forest, where the moon is always soft. No yelling, no flashing screens — just warmth, wonder, and one quiet voice on the way to sleep.
+
+Find us each week in your favorite podcast app.]]></content:encoded>
+    <guid isPermaLink="false">fairy-tao-en-trailer</guid>
+    <pubDate>Mon, 11 May 2026 19:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/fairy-tao-en/episodes/trailer.mp3" length="1112292" type="audio/mpeg" />
+    <itunes:title>Trailer — Fairy Tao Stories</itunes:title>
+    <itunes:author>Fairy Tao</itunes:author>
+    <itunes:summary><![CDATA[Hello, little ones — I'm Fairy Tao.
+
+Bedtime audio for children ages 2-6. Each 6-8 minute story is told by a gentle storyteller in the peach blossom forest, where the moon is always soft. No yelling, no flashing screens — just warmth, wonder, and one quiet voice on the way to sleep.
+
+Find us each week in your favorite podcast app.]]></itunes:summary>
+    <itunes:subtitle>Bedtime stories for curious little ones, ages 2-6</itunes:subtitle>
+    <itunes:duration>0:36</itunes:duration>
+    <itunes:episode>0</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>trailer</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/fairy-tao-en/cover.jpg" />
+    <itunes:keywords>trailer,kids,bedtime story,fairy tale,ages 2-6,storytelling</itunes:keywords>
   </item>
 </channel>
 </rss>
