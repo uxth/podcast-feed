@@ -7,7 +7,9 @@ on:
       - 'shows/**/show.yaml'
       - 'shows/**/episodes/*.yaml'
       - 'shows/**/episodes/*.mp3'
+      - 'shows/**/cover.jpg'
       - 'gen_rss.py'
+      - '.github/workflows/rebuild-feeds.yml'
   workflow_dispatch:  # 允许手动触发
 
 permissions:
@@ -20,36 +22,30 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 需要历史以便 commit feed.xml
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install ffmpeg + pyyaml
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
-          pip install pyyaml
+      - name: Install pyyaml
+        run: pip install pyyaml
 
       - name: Generate all RSS feeds
         env:
           PODCAST_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
         run: python3 gen_rss.py --all
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-
-      - name: Commit updated feed.xml back to main
+      - name: Commit updated feed.xml back to main (if changed)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -61,13 +57,11 @@ jobs:
             git push
           fi
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
