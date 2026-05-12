@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/</link>
   <language>zh-cn</language>
   <copyright>© 2026 星泽</copyright>
-  <lastBuildDate>Mon, 11 May 2026 22:45:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 17:00:44 +0000</lastBuildDate>
   <description><![CDATA[星泽 Star Mirror —— 写给焦虑你的星空回信。
 
 每集 7-10 分钟,慵懒神秘女声 + 星空环境音 + 古琴水晶钵共鸣,在深夜陪你安放无处投放的情绪。
@@ -60,6 +60,71 @@
   <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Spirituality" /></itunes:category>
   <itunes:category text="Health &amp; Fitness"><itunes:category text="Mental Health" /></itunes:category>
   <!-- AI disclosure: partly_ai_generated -->
+  <item>
+    <title>O03 愚者牌 · 重新开始的勇气</title>
+    <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O03.mp3</link>
+    <description><![CDATA[今晚的星空属于愚者牌——那个迈步走向未知的牌。
+
+愚者不是天真。愚者只是知道：每一条新路，都得在还没看清的时候，先迈出第一步。
+
+也许你最近，有些不确定。卡在过去和未来之间，不知道下一步往哪走。
+
+让我陪你坐在悬崖边，愚者站着的位置。
+不催你往前。只是提醒你：悬崖不是终点，它是门。
+
+7 分钟的心灵陪伴，配古琴 + 水晶钵 + 星空环境音。
+
+—— 星泽 O03 愚者牌 ——
+
+本集是心灵护身，不是占卜预测。
+本集采用 AI 辅助制作。
+反馈：dingqing1981@gmail.com]]></description>
+    <content:encoded><![CDATA[今晚的星空属于愚者牌——那个迈步走向未知的牌。
+
+愚者不是天真。愚者只是知道：每一条新路，都得在还没看清的时候，先迈出第一步。
+
+也许你最近，有些不确定。卡在过去和未来之间，不知道下一步往哪走。
+
+让我陪你坐在悬崖边，愚者站着的位置。
+不催你往前。只是提醒你：悬崖不是终点，它是门。
+
+7 分钟的心灵陪伴，配古琴 + 水晶钵 + 星空环境音。
+
+—— 星泽 O03 愚者牌 ——
+
+本集是心灵护身，不是占卜预测。
+本集采用 AI 辅助制作。
+反馈：dingqing1981@gmail.com]]></content:encoded>
+    <guid isPermaLink="false">star-mirror-zh-O03</guid>
+    <pubDate>Tue, 12 May 2026 10:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O03.mp3" length="11483327" type="audio/mpeg" />
+    <itunes:title>O03 愚者牌 · 重新开始的勇气</itunes:title>
+    <itunes:author>星泽</itunes:author>
+    <itunes:summary><![CDATA[今晚的星空属于愚者牌——那个迈步走向未知的牌。
+
+愚者不是天真。愚者只是知道：每一条新路，都得在还没看清的时候，先迈出第一步。
+
+也许你最近，有些不确定。卡在过去和未来之间，不知道下一步往哪走。
+
+让我陪你坐在悬崖边，愚者站着的位置。
+不催你往前。只是提醒你：悬崖不是终点，它是门。
+
+7 分钟的心灵陪伴，配古琴 + 水晶钵 + 星空环境音。
+
+—— 星泽 O03 愚者牌 ——
+
+本集是心灵护身，不是占卜预测。
+本集采用 AI 辅助制作。
+反馈：dingqing1981@gmail.com]]></itunes:summary>
+    <itunes:subtitle>7 分钟心灵护身电台 · 愚者牌意象</itunes:subtitle>
+    <itunes:duration>7:39</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg" />
+    <itunes:keywords>心灵成长,冥想,塔罗牌,愚者牌,重新开始,焦虑缓解,古琴</itunes:keywords>
+  </item>
   <item>
     <title>O02 白羊座 · 重新出发的勇气</title>
     <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O02.mp3</link>

@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/</link>
   <language>zh-cn</language>
   <copyright>© 2026 夜栖</copyright>
-  <lastBuildDate>Mon, 11 May 2026 22:45:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 17:00:44 +0000</lastBuildDate>
   <description><![CDATA[夜栖 Night Refuge —— 写给成年人的睡前避难所。
 
 每集 8-12 分钟，温柔旁白 + 深夜环境音 + 古琴 lofi 钢琴，引导失眠的你慢慢放下白天的焦虑。
@@ -135,6 +135,68 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
     <itunes:keywords>助眠,冥想,引导式助眠,雨夜,列车,火车,雨声,深秋</itunes:keywords>
+  </item>
+  <item>
+    <title>N02 林潭月夜 - 山间一汪静潭</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N02.mp3</link>
+    <description><![CDATA[今晚我们去山里的一汪小潭。
+
+月光透过松针，淡淡地落下。
+潭面几乎不动，只有偶尔一片树叶飘下来，轻轻荡开一圈涟漪。
+一阵凉风吹过，带着苔藓和湿土的气息。
+
+坐到潭边。让水里的倒影慢慢静下来。让你的思绪也跟着静下来。
+
+8 分钟的引导式助眠，配古琴 lofi 钢琴 + 森林环境音。
+适合上床后听。
+
+—— 夜栖 N02 ——
+
+本集采用 AI 辅助制作。
+反馈：dingqing1981@gmail.com]]></description>
+    <content:encoded><![CDATA[今晚我们去山里的一汪小潭。
+
+月光透过松针，淡淡地落下。
+潭面几乎不动，只有偶尔一片树叶飘下来，轻轻荡开一圈涟漪。
+一阵凉风吹过，带着苔藓和湿土的气息。
+
+坐到潭边。让水里的倒影慢慢静下来。让你的思绪也跟着静下来。
+
+8 分钟的引导式助眠，配古琴 lofi 钢琴 + 森林环境音。
+适合上床后听。
+
+—— 夜栖 N02 ——
+
+本集采用 AI 辅助制作。
+反馈：dingqing1981@gmail.com]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N02</guid>
+    <pubDate>Tue, 12 May 2026 10:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N02.mp3" length="16010004" type="audio/mpeg" />
+    <itunes:title>N02 林潭月夜 - 山间一汪静潭</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[今晚我们去山里的一汪小潭。
+
+月光透过松针，淡淡地落下。
+潭面几乎不动，只有偶尔一片树叶飘下来，轻轻荡开一圈涟漪。
+一阵凉风吹过，带着苔藓和湿土的气息。
+
+坐到潭边。让水里的倒影慢慢静下来。让你的思绪也跟着静下来。
+
+8 分钟的引导式助眠，配古琴 lofi 钢琴 + 森林环境音。
+适合上床后听。
+
+—— 夜栖 N02 ——
+
+本集采用 AI 辅助制作。
+反馈：dingqing1981@gmail.com]]></itunes:summary>
+    <itunes:subtitle>8 分钟引导式助眠</itunes:subtitle>
+    <itunes:duration>8:32</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+    <itunes:keywords>助眠,冥想,森林,月光,山潭,古琴,环境音</itunes:keywords>
   </item>
   <item>
     <title>N01 雾中的木屋 - 山脚下的小屋助眠引导</title>

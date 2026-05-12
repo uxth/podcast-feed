@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/</link>
   <language>en-us</language>
   <copyright>© 2026 Night Refuge</copyright>
-  <lastBuildDate>Mon, 11 May 2026 22:45:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 17:00:44 +0000</lastBuildDate>
   <description><![CDATA[Night Refuge — A bedtime shelter for the modern mind.
 
 8–12 minutes per episode. Gentle voice, ambient soundscape, soft guqin and lofi piano, guiding you to release the day's anxieties and slip into sleep.
@@ -139,6 +139,65 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
     <itunes:keywords>sleep,meditation,guided sleep,rainy night,train,rain sounds,late autumn,ambient</itunes:keywords>
+  </item>
+  <item>
+    <title>N02 Forest Pond Night — A Quiet Mountain Pool</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N02.mp3</link>
+    <description><![CDATA[Tonight we go to a small forest pond, deep in the mountains.
+
+Pale moonlight filters through the pine canopy. The pond surface barely moves — only the soft ripple of a leaf falling now and then. A cool breeze passes through, carrying the scent of moss and damp earth.
+
+Sit at the pond's edge. Let your reflection settle. Let your thoughts settle with it.
+
+8 minutes of guided sleep meditation, with original guqin lofi piano and forest ambient.
+
+Best listened to in bed, just before sleep.
+
+—— Night Refuge N02 ——
+
+This episode is AI-assisted.
+Feedback: dingqing1981@gmail.com]]></description>
+    <content:encoded><![CDATA[Tonight we go to a small forest pond, deep in the mountains.
+
+Pale moonlight filters through the pine canopy. The pond surface barely moves — only the soft ripple of a leaf falling now and then. A cool breeze passes through, carrying the scent of moss and damp earth.
+
+Sit at the pond's edge. Let your reflection settle. Let your thoughts settle with it.
+
+8 minutes of guided sleep meditation, with original guqin lofi piano and forest ambient.
+
+Best listened to in bed, just before sleep.
+
+—— Night Refuge N02 ——
+
+This episode is AI-assisted.
+Feedback: dingqing1981@gmail.com]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N02</guid>
+    <pubDate>Tue, 12 May 2026 10:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N02.mp3" length="14849502" type="audio/mpeg" />
+    <itunes:title>N02 Forest Pond Night — A Quiet Mountain Pool</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Tonight we go to a small forest pond, deep in the mountains.
+
+Pale moonlight filters through the pine canopy. The pond surface barely moves — only the soft ripple of a leaf falling now and then. A cool breeze passes through, carrying the scent of moss and damp earth.
+
+Sit at the pond's edge. Let your reflection settle. Let your thoughts settle with it.
+
+8 minutes of guided sleep meditation, with original guqin lofi piano and forest ambient.
+
+Best listened to in bed, just before sleep.
+
+—— Night Refuge N02 ——
+
+This episode is AI-assisted.
+Feedback: dingqing1981@gmail.com]]></itunes:summary>
+    <itunes:subtitle>8 min guided sleep meditation</itunes:subtitle>
+    <itunes:duration>8:32</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+    <itunes:keywords>sleep,meditation,forest,pond,moonlight,guqin,ambient</itunes:keywords>
   </item>
   <item>
     <title>N01 The Cabin in the Mist — Mountain Hut Sleep Guide</title>
