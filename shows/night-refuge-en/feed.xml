@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/</link>
   <language>en-us</language>
   <copyright>© 2026 Night Refuge</copyright>
-  <lastBuildDate>Wed, 13 May 2026 16:13:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 17:18:30 +0000</lastBuildDate>
   <description><![CDATA[Night Refuge — A bedtime shelter for the modern mind.
 
 8–12 minutes per episode. Gentle voice, ambient soundscape, soft guqin and lofi piano, guiding you to release the day's anxieties and slip into sleep.
@@ -471,6 +471,25 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
     <itunes:duration>0:00</itunes:duration>
     <itunes:episode>9</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Jiangnan Canopy Boat</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N10.mp3</link>
+    <description><![CDATA[Jiangnan Canopy Boat]]></description>
+    <content:encoded><![CDATA[Jiangnan Canopy Boat]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N10</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N10.mp3" length="19556129" type="audio/mpeg" />
+    <itunes:title>Jiangnan Canopy Boat</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Jiangnan Canopy Boat]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>10</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
