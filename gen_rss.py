@@ -168,13 +168,20 @@ def gen_feed(show_dir: Path, base_url: str) -> str:
     for ep in episodes:
         ep_id = ep["episode_id"]
         ep_title = escape(ep["title"])
-        ep_desc = ep["description"].strip()
-        ep_num = ep.get("episode_number", 0)
+        # v2 容错：缺 description 用 title 兜底
+        ep_desc = ep.get("description", ep.get("subtitle", ep["title"])).strip()
+        ep_num = ep.get("episode_number", ep.get("track", 0))
         ep_season = ep.get("season", 1)
         ep_type = ep.get("episode_type", "full")
         ep_explicit = "true" if ep.get("explicit", False) else "false"
-        ep_pubdate = format_pub_date(ep["publish_date"])
-        ep_dur = ep.get("duration_seconds", 0)
+        # v2 容错：缺 publish_date 用 pubDate
+        pub = ep.get("publish_date") or ep.get("pubDate") or "2026-05-13T00:00:00Z"
+        if isinstance(pub, str) and "T" not in pub:
+            pub = pub + "T00:00:00Z"
+        ep_pubdate = format_pub_date(pub)
+        # v2 容错：duration_s 替代 duration_seconds
+        ep_dur = ep.get("duration_seconds", ep.get("duration_s", 0))
+        ep_dur = int(ep_dur) if ep_dur else 0
         ep_dur_str = format_duration_hhmmss(ep_dur)
         ep_size = ep["__mp3_size"]
         ep_mime = ep.get("audio_mime", "audio/mpeg")

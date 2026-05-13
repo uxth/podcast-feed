@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/</link>
   <language>zh-cn</language>
   <copyright>© 2026 星泽</copyright>
-  <lastBuildDate>Wed, 13 May 2026 05:23:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 05:51:50 +0000</lastBuildDate>
   <description><![CDATA[星泽 Star Mirror —— 写给焦虑你的星空回信。
 
 每集 7-10 分钟,慵懒神秘女声 + 星空环境音 + 古琴水晶钵共鸣,在深夜陪你安放无处投放的情绪。
@@ -322,6 +322,101 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg" />
     <itunes:keywords>心灵成长,冥想,焦虑缓解,助眠,古琴,环境音,水晶钵,深夜陪伴</itunes:keywords>
+  </item>
+  <item>
+    <title>金牛座 · 让根慢慢扎下来</title>
+    <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O04.mp3</link>
+    <description><![CDATA[金牛座 · 让根慢慢扎下来]]></description>
+    <content:encoded><![CDATA[金牛座 · 让根慢慢扎下来]]></content:encoded>
+    <guid isPermaLink="false">star-mirror-zh-O04</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O04.mp3" length="9880131" type="audio/mpeg" />
+    <itunes:title>金牛座 · 让根慢慢扎下来</itunes:title>
+    <itunes:author>星泽</itunes:author>
+    <itunes:summary><![CDATA[金牛座 · 让根慢慢扎下来]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>5:11</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>双子座 · 心里的两个声音</title>
+    <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O05.mp3</link>
+    <description><![CDATA[双子座 · 心里的两个声音]]></description>
+    <content:encoded><![CDATA[双子座 · 心里的两个声音]]></content:encoded>
+    <guid isPermaLink="false">star-mirror-zh-O05</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O05.mp3" length="10583266" type="audio/mpeg" />
+    <itunes:title>双子座 · 心里的两个声音</itunes:title>
+    <itunes:author>星泽</itunes:author>
+    <itunes:summary><![CDATA[双子座 · 心里的两个声音]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>5:52</itunes:duration>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>倒吊人 · 暂停一下，世界就转了</title>
+    <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O06.mp3</link>
+    <description><![CDATA[倒吊人 · 暂停一下，世界就转了]]></description>
+    <content:encoded><![CDATA[倒吊人 · 暂停一下，世界就转了]]></content:encoded>
+    <guid isPermaLink="false">star-mirror-zh-O06</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O06.mp3" length="10865210" type="audio/mpeg" />
+    <itunes:title>倒吊人 · 暂停一下，世界就转了</itunes:title>
+    <itunes:author>星泽</itunes:author>
+    <itunes:summary><![CDATA[倒吊人 · 暂停一下，世界就转了]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>5:56</itunes:duration>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>一个人，也可以</title>
+    <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O07.mp3</link>
+    <description><![CDATA[一个人，也可以]]></description>
+    <content:encoded><![CDATA[一个人，也可以]]></content:encoded>
+    <guid isPermaLink="false">star-mirror-zh-O07</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O07.mp3" length="11380074" type="audio/mpeg" />
+    <itunes:title>一个人，也可以</itunes:title>
+    <itunes:author>星泽</itunes:author>
+    <itunes:summary><![CDATA[一个人，也可以]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>6:17</itunes:duration>
+    <itunes:episode>7</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>巨蟹座 · 给自己留一盏灯</title>
+    <link>https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O08.mp3</link>
+    <description><![CDATA[巨蟹座 · 给自己留一盏灯]]></description>
+    <content:encoded><![CDATA[巨蟹座 · 给自己留一盏灯]]></content:encoded>
+    <guid isPermaLink="false">star-mirror-zh-O08</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/episodes/O08.mp3" length="12597422" type="audio/mpeg" />
+    <itunes:title>巨蟹座 · 给自己留一盏灯</itunes:title>
+    <itunes:author>星泽</itunes:author>
+    <itunes:summary><![CDATA[巨蟹座 · 给自己留一盏灯]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>7:02</itunes:duration>
+    <itunes:episode>8</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/star-mirror-zh/cover.jpg" />
   </item>
   <item>
     <title>预告片 — 星泽</title>

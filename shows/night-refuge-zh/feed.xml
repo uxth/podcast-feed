@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/</link>
   <language>zh-cn</language>
   <copyright>© 2026 夜栖</copyright>
-  <lastBuildDate>Wed, 13 May 2026 05:23:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 05:51:50 +0000</lastBuildDate>
   <description><![CDATA[夜栖 Night Refuge —— 写给成年人的睡前避难所。
 
 每集 8-12 分钟，温柔旁白 + 深夜环境音 + 古琴 lofi 钢琴，引导失眠的你慢慢放下白天的焦虑。
@@ -398,6 +398,82 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
     <itunes:keywords>助眠,冥想,引导式助眠,成人睡前故事,环境音,山雾,古琴,lofi</itunes:keywords>
+  </item>
+  <item>
+    <title>海边小屋 · 潮汐</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N05.mp3</link>
+    <description><![CDATA[海边小屋 · 潮汐]]></description>
+    <content:encoded><![CDATA[海边小屋 · 潮汐]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N05</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N05.mp3" length="12758024" type="audio/mpeg" />
+    <itunes:title>海边小屋 · 潮汐</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[海边小屋 · 潮汐]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>7:08</itunes:duration>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>古寺夜雨</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N07.mp3</link>
+    <description><![CDATA[古寺夜雨]]></description>
+    <content:encoded><![CDATA[古寺夜雨]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N07</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N07.mp3" length="13647280" type="audio/mpeg" />
+    <itunes:title>古寺夜雨</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[古寺夜雨]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>7:31</itunes:duration>
+    <itunes:episode>7</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>外婆夏夜庭院</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N08.mp3</link>
+    <description><![CDATA[外婆夏夜庭院]]></description>
+    <content:encoded><![CDATA[外婆夏夜庭院]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N08</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N08.mp3" length="12669694" type="audio/mpeg" />
+    <itunes:title>外婆夏夜庭院</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[外婆夏夜庭院]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>6:53</itunes:duration>
+    <itunes:episode>8</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>月光茉莉花园</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N09.mp3</link>
+    <description><![CDATA[月光茉莉花园]]></description>
+    <content:encoded><![CDATA[月光茉莉花园]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N09</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N09.mp3" length="13395429" type="audio/mpeg" />
+    <itunes:title>月光茉莉花园</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[月光茉莉花园]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>7:03</itunes:duration>
+    <itunes:episode>9</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
   </item>
   <item>
     <title>预告片 — 夜栖</title>

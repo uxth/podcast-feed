@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/</link>
   <language>en-us</language>
   <copyright>© 2026 Night Refuge</copyright>
-  <lastBuildDate>Wed, 13 May 2026 05:23:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 05:51:50 +0000</lastBuildDate>
   <description><![CDATA[Night Refuge — A bedtime shelter for the modern mind.
 
 8–12 minutes per episode. Gentle voice, ambient soundscape, soft guqin and lofi piano, guiding you to release the day's anxieties and slip into sleep.
@@ -399,6 +399,82 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
     <itunes:keywords>sleep,meditation,guided sleep,bedtime story for adults,ambient,mountain,guqin,lofi</itunes:keywords>
+  </item>
+  <item>
+    <title>Seaside Cottage · Tide</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N05.mp3</link>
+    <description><![CDATA[Seaside Cottage · Tide]]></description>
+    <content:encoded><![CDATA[Seaside Cottage · Tide]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N05</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N05.mp3" length="11784944" type="audio/mpeg" />
+    <itunes:title>Seaside Cottage · Tide</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Seaside Cottage · Tide]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>6:28</itunes:duration>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Temple Night Rain</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N07.mp3</link>
+    <description><![CDATA[Temple Night Rain]]></description>
+    <content:encoded><![CDATA[Temple Night Rain]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N07</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N07.mp3" length="13356334" type="audio/mpeg" />
+    <itunes:title>Temple Night Rain</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Temple Night Rain]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>7:18</itunes:duration>
+    <itunes:episode>7</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Grandmother's Summer Courtyard</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N08.mp3</link>
+    <description><![CDATA[Grandmother's Summer Courtyard]]></description>
+    <content:encoded><![CDATA[Grandmother's Summer Courtyard]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N08</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N08.mp3" length="11959664" type="audio/mpeg" />
+    <itunes:title>Grandmother's Summer Courtyard</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Grandmother's Summer Courtyard]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>6:23</itunes:duration>
+    <itunes:episode>8</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Moonlit Jasmine Garden</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N09.mp3</link>
+    <description><![CDATA[Moonlit Jasmine Garden]]></description>
+    <content:encoded><![CDATA[Moonlit Jasmine Garden]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N09</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N09.mp3" length="12567398" type="audio/mpeg" />
+    <itunes:title>Moonlit Jasmine Garden</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Moonlit Jasmine Garden]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>6:28</itunes:duration>
+    <itunes:episode>9</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
   </item>
   <item>
     <title>Trailer — Night Refuge</title>
