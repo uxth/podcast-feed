@@ -1,0 +1,51 @@
+# N04 episode metadata for night-refuge-zh
+episode_id: N04
+slug: starlit-grassland
+title: "N04 星夜草原"
+subtitle: "11 分钟引导式助眠 · 仲夏夜的星空草地"
+description: |
+  今晚我们一起躺在一片辽阔的高原草地上。
+
+  仲夏的夜晚，你独自走到草地中央，慢慢坐下，再慢慢躺下。
+  后背贴着凉草地，头顶是黑得发亮的天，密密的银河像一条柔软的丝带，从天的这头流到那头。
+  无数星星静静地悬着，有的明亮，有的极淡，像有人撒了一把碎银在很高很高的地方。
+  远处——很远很远——有一小簇橙色的篝火，像一颗低低悬着的小星，不知道是哪个夜归人留下的。
+
+  四周是夏夜的虫鸣，密密层层，此起彼伏，像一片看不见的小小海洋。
+  一阵风从草尖上慢慢地、慢慢地走过，带来青草、泥土和远处篝火极淡的烟味。
+  你把双手放在胸口，让自己被天和草同时接住。
+  你的呼吸开始跟着虫鸣的节奏慢下来，越来越慢——
+  最后只剩下星星、虫鸣，和你自己。
+
+  11 分钟的引导式助眠，配古琴 lofi 钢琴 + 虫鸣 + 远处篝火极淡噼啪声。
+  适合上床后听，让大脑慢慢停下来。
+
+  —— 夜栖 N04 ——
+
+  本集采用 AI 辅助制作。
+  反馈请发邮件：dingqing1981@gmail.com
+episode_number: 4
+season: 1
+episode_type: full
+explicit: false
+publish_date: 2026-05-12T20:00:00Z
+duration_seconds: 681
+audio_file: N04.mp3
+audio_mime: audio/mpeg
+artist: 夜栖 · Night Refuge
+album: Night Refuge
+track: 4
+genre: Education
+language: zh
+size_bytes: 19222778
+mp3_path: /data/output/stories-channel/_shared/podcast-feed/shows/night-refuge-zh/episodes/N04.mp3
+cover: /data/output/stories-channel/night-refuge/N04-starlit-grassland/cover/N04-zh.png
+keywords:
+  - 助眠
+  - 冥想
+  - 引导式助眠
+  - 星空
+  - 草原
+  - 银河
+  - 虫鸣
+  - 仲夏夜
