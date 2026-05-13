@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/</link>
   <language>zh-cn</language>
   <copyright>© 2026 夜栖</copyright>
-  <lastBuildDate>Tue, 12 May 2026 17:00:44 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 05:23:07 +0000</lastBuildDate>
   <description><![CDATA[夜栖 Night Refuge —— 写给成年人的睡前避难所。
 
 每集 8-12 分钟，温柔旁白 + 深夜环境音 + 古琴 lofi 钢琴，引导失眠的你慢慢放下白天的焦虑。
@@ -62,6 +62,148 @@
   <itunes:category text="Health &amp; Fitness"><itunes:category text="Mental Health" /></itunes:category>
   <itunes:category text="Education"><itunes:category text="Self-Improvement" /></itunes:category>
   <!-- AI disclosure: partly_ai_generated -->
+  <item>
+    <title>N06 冬夜书房</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N06.mp3</link>
+    <description><![CDATA[今晚我们一起到一间冬夜的旧书房里去。
+
+屋外是漫天慢慢落下的雪，屋里是一盏低垂的台灯，桌上一本翻开的旧书。
+你慢慢走到那张木椅边，慢慢地坐下去。椅子接住了你，桌子接住了你的两只手，灯光接住了你的目光。
+你翻过一页——沙——纸轻轻响一下。又翻过一页——沙——再轻一下。
+灯，还亮着。雪，还在落。
+你听见自己的呼吸跟着翻页的节奏，越来越慢，越来越柔。
+到最后，纸停在了某一页上，你的头也悄悄地靠到了椅背上。
+
+8 分钟的引导式助眠，配古琴 lofi 钢琴 + 纸页翻动 + 远处雪夜环境音。
+适合上床后听，让大脑跟着翻页声慢慢停下来。
+
+—— 夜栖 N06 ——
+
+本集采用 AI 辅助制作。
+反馈请发邮件：dingqing1981@gmail.com]]></description>
+    <content:encoded><![CDATA[今晚我们一起到一间冬夜的旧书房里去。
+
+屋外是漫天慢慢落下的雪，屋里是一盏低垂的台灯，桌上一本翻开的旧书。
+你慢慢走到那张木椅边，慢慢地坐下去。椅子接住了你，桌子接住了你的两只手，灯光接住了你的目光。
+你翻过一页——沙——纸轻轻响一下。又翻过一页——沙——再轻一下。
+灯，还亮着。雪，还在落。
+你听见自己的呼吸跟着翻页的节奏，越来越慢，越来越柔。
+到最后，纸停在了某一页上，你的头也悄悄地靠到了椅背上。
+
+8 分钟的引导式助眠，配古琴 lofi 钢琴 + 纸页翻动 + 远处雪夜环境音。
+适合上床后听，让大脑跟着翻页声慢慢停下来。
+
+—— 夜栖 N06 ——
+
+本集采用 AI 辅助制作。
+反馈请发邮件：dingqing1981@gmail.com]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N06</guid>
+    <pubDate>Wed, 13 May 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N06.mp3" length="14997909" type="audio/mpeg" />
+    <itunes:title>N06 冬夜书房</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[今晚我们一起到一间冬夜的旧书房里去。
+
+屋外是漫天慢慢落下的雪，屋里是一盏低垂的台灯，桌上一本翻开的旧书。
+你慢慢走到那张木椅边，慢慢地坐下去。椅子接住了你，桌子接住了你的两只手，灯光接住了你的目光。
+你翻过一页——沙——纸轻轻响一下。又翻过一页——沙——再轻一下。
+灯，还亮着。雪，还在落。
+你听见自己的呼吸跟着翻页的节奏，越来越慢，越来越柔。
+到最后，纸停在了某一页上，你的头也悄悄地靠到了椅背上。
+
+8 分钟的引导式助眠，配古琴 lofi 钢琴 + 纸页翻动 + 远处雪夜环境音。
+适合上床后听，让大脑跟着翻页声慢慢停下来。
+
+—— 夜栖 N06 ——
+
+本集采用 AI 辅助制作。
+反馈请发邮件：dingqing1981@gmail.com]]></itunes:summary>
+    <itunes:subtitle>8 分钟引导式助眠 · 冬夜旧书房 + 纸页与雪</itunes:subtitle>
+    <itunes:duration>8:39</itunes:duration>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+    <itunes:keywords>助眠,冥想,引导式助眠,冬夜,书房,纸页翻动,旧书,灯光,雪夜</itunes:keywords>
+  </item>
+  <item>
+    <title>N04 星夜草原</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N04.mp3</link>
+    <description><![CDATA[今晚我们一起躺在一片辽阔的高原草地上。
+
+仲夏的夜晚，你独自走到草地中央，慢慢坐下，再慢慢躺下。
+后背贴着凉草地，头顶是黑得发亮的天，密密的银河像一条柔软的丝带，从天的这头流到那头。
+无数星星静静地悬着，有的明亮，有的极淡，像有人撒了一把碎银在很高很高的地方。
+远处——很远很远——有一小簇橙色的篝火，像一颗低低悬着的小星，不知道是哪个夜归人留下的。
+
+四周是夏夜的虫鸣，密密层层，此起彼伏，像一片看不见的小小海洋。
+一阵风从草尖上慢慢地、慢慢地走过，带来青草、泥土和远处篝火极淡的烟味。
+你把双手放在胸口，让自己被天和草同时接住。
+你的呼吸开始跟着虫鸣的节奏慢下来，越来越慢——
+最后只剩下星星、虫鸣，和你自己。
+
+11 分钟的引导式助眠，配古琴 lofi 钢琴 + 虫鸣 + 远处篝火极淡噼啪声。
+适合上床后听，让大脑慢慢停下来。
+
+—— 夜栖 N04 ——
+
+本集采用 AI 辅助制作。
+反馈请发邮件：dingqing1981@gmail.com]]></description>
+    <content:encoded><![CDATA[今晚我们一起躺在一片辽阔的高原草地上。
+
+仲夏的夜晚，你独自走到草地中央，慢慢坐下，再慢慢躺下。
+后背贴着凉草地，头顶是黑得发亮的天，密密的银河像一条柔软的丝带，从天的这头流到那头。
+无数星星静静地悬着，有的明亮，有的极淡，像有人撒了一把碎银在很高很高的地方。
+远处——很远很远——有一小簇橙色的篝火，像一颗低低悬着的小星，不知道是哪个夜归人留下的。
+
+四周是夏夜的虫鸣，密密层层，此起彼伏，像一片看不见的小小海洋。
+一阵风从草尖上慢慢地、慢慢地走过，带来青草、泥土和远处篝火极淡的烟味。
+你把双手放在胸口，让自己被天和草同时接住。
+你的呼吸开始跟着虫鸣的节奏慢下来，越来越慢——
+最后只剩下星星、虫鸣，和你自己。
+
+11 分钟的引导式助眠，配古琴 lofi 钢琴 + 虫鸣 + 远处篝火极淡噼啪声。
+适合上床后听，让大脑慢慢停下来。
+
+—— 夜栖 N04 ——
+
+本集采用 AI 辅助制作。
+反馈请发邮件：dingqing1981@gmail.com]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N04</guid>
+    <pubDate>Tue, 12 May 2026 20:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N04.mp3" length="19222778" type="audio/mpeg" />
+    <itunes:title>N04 星夜草原</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[今晚我们一起躺在一片辽阔的高原草地上。
+
+仲夏的夜晚，你独自走到草地中央，慢慢坐下，再慢慢躺下。
+后背贴着凉草地，头顶是黑得发亮的天，密密的银河像一条柔软的丝带，从天的这头流到那头。
+无数星星静静地悬着，有的明亮，有的极淡，像有人撒了一把碎银在很高很高的地方。
+远处——很远很远——有一小簇橙色的篝火，像一颗低低悬着的小星，不知道是哪个夜归人留下的。
+
+四周是夏夜的虫鸣，密密层层，此起彼伏，像一片看不见的小小海洋。
+一阵风从草尖上慢慢地、慢慢地走过，带来青草、泥土和远处篝火极淡的烟味。
+你把双手放在胸口，让自己被天和草同时接住。
+你的呼吸开始跟着虫鸣的节奏慢下来，越来越慢——
+最后只剩下星星、虫鸣，和你自己。
+
+11 分钟的引导式助眠，配古琴 lofi 钢琴 + 虫鸣 + 远处篝火极淡噼啪声。
+适合上床后听，让大脑慢慢停下来。
+
+—— 夜栖 N04 ——
+
+本集采用 AI 辅助制作。
+反馈请发邮件：dingqing1981@gmail.com]]></itunes:summary>
+    <itunes:subtitle>11 分钟引导式助眠 · 仲夏夜的星空草地</itunes:subtitle>
+    <itunes:duration>11:21</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+    <itunes:keywords>助眠,冥想,引导式助眠,星空,草原,银河,虫鸣,仲夏夜</itunes:keywords>
+  </item>
   <item>
     <title>N03 雨夜列车 - 深秋夜班车厢</title>
     <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N03.mp3</link>
