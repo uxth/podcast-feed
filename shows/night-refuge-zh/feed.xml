@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/</link>
   <language>zh-cn</language>
   <copyright>© 2026 夜栖</copyright>
-  <lastBuildDate>Fri, 15 May 2026 07:05:22 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 07:16:21 +0000</lastBuildDate>
   <description><![CDATA[夜栖 Night Refuge —— 写给成年人的睡前避难所。
 
 每集 8-12 分钟，温柔旁白 + 深夜环境音 + 古琴 lofi 钢琴，引导失眠的你慢慢放下白天的焦虑。
@@ -628,6 +628,25 @@
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
   </item>
   <item>
+    <title>苔原驯鹿夜</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N20.mp3</link>
+    <description><![CDATA[苔原驯鹿夜]]></description>
+    <content:encoded><![CDATA[苔原驯鹿夜]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N20</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N20.mp3" length="24227060" type="audio/mpeg" />
+    <itunes:title>苔原驯鹿夜</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[苔原驯鹿夜]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>20</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
     <title>樱花夜</title>
     <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N21.mp3</link>
     <description><![CDATA[樱花夜]]></description>
@@ -679,6 +698,25 @@
     <itunes:subtitle></itunes:subtitle>
     <itunes:duration>0:00</itunes:duration>
     <itunes:episode>23</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>古井深井院</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N24.mp3</link>
+    <description><![CDATA[古井深井院]]></description>
+    <content:encoded><![CDATA[古井深井院]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N24</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N24.mp3" length="17555973" type="audio/mpeg" />
+    <itunes:title>古井深井院</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[古井深井院]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>24</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
