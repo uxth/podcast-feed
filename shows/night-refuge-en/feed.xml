@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/</link>
   <language>en-us</language>
   <copyright>© 2026 Night Refuge</copyright>
-  <lastBuildDate>Fri, 15 May 2026 04:01:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 04:15:58 +0000</lastBuildDate>
   <description><![CDATA[Night Refuge — A bedtime shelter for the modern mind.
 
 8–12 minutes per episode. Gentle voice, ambient soundscape, soft guqin and lofi piano, guiding you to release the day's anxieties and slip into sleep.
@@ -528,6 +528,25 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
     <itunes:duration>13:46</itunes:duration>
     <itunes:episode>12</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Tea-Horse Road Mist</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N37.mp3</link>
+    <description><![CDATA[Tea-Horse Road Mist]]></description>
+    <content:encoded><![CDATA[Tea-Horse Road Mist]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N37</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N37.mp3" length="15683918" type="audio/mpeg" />
+    <itunes:title>Tea-Horse Road Mist</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Tea-Horse Road Mist]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>9:13</itunes:duration>
+    <itunes:episode>37</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
