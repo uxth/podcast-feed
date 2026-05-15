@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/</link>
   <language>en-us</language>
   <copyright>© 2026 Night Refuge</copyright>
-  <lastBuildDate>Fri, 15 May 2026 10:06:16 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 10:10:23 +0000</lastBuildDate>
   <description><![CDATA[Night Refuge — A bedtime shelter for the modern mind.
 
 8–12 minutes per episode. Gentle voice, ambient soundscape, soft guqin and lofi piano, guiding you to release the day's anxieties and slip into sleep.
@@ -412,7 +412,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Seaside Cottage · Tide]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>6:28</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>5</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -431,7 +431,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Temple Night Rain]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>7:18</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>7</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -450,7 +450,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Grandmother's Summer Courtyard]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>6:23</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>8</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -469,7 +469,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Moonlit Jasmine Garden]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>6:28</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>9</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -488,7 +488,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Jiangnan Canopy Boat]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>11:48</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>10</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -507,7 +507,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Snowfield Under the Moon]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>16:23</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>11</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -526,7 +526,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Fireflies by the Water]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>13:46</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>12</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -545,8 +545,27 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Old Teahouse Night]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>11:22</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>13</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Attic Old Keepsakes</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N14.mp3</link>
+    <description><![CDATA[Attic Old Keepsakes]]></description>
+    <content:encoded><![CDATA[Attic Old Keepsakes]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N14</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N14.mp3" length="15855260" type="audio/mpeg" />
+    <itunes:title>Attic Old Keepsakes</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Attic Old Keepsakes]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>14</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
@@ -564,7 +583,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Lighthouse Keeper's Quarters]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>9:15</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>15</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -583,7 +602,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[The Mountain Inn]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>9:20</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>16</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -602,7 +621,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Scriptorium Candlelight]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>10:43</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>17</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -621,7 +640,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Bamboo Grove Moonlight]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>12:16</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>18</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -640,7 +659,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Desert Starfield]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>11:30</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>19</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -659,7 +678,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Tundra Reindeer Aurora]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>13:31</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>20</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -678,7 +697,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Cherry Blossom Night]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>8:27</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>21</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -697,7 +716,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Maple Stream Night]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>10:23</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>22</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -716,7 +735,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Ginkgo Ancient Path]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>8:55</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>23</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -735,7 +754,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Deep Well Courtyard]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>10:10</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>24</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -754,7 +773,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Alpine Pasture]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>9:59</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>25</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -773,7 +792,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Fishing Village Dock]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>10:04</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>26</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -792,8 +811,122 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Harbor Small Boat]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>9:59</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>27</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Lake Pavilion Mist</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N28.mp3</link>
+    <description><![CDATA[Lake Pavilion Mist]]></description>
+    <content:encoded><![CDATA[Lake Pavilion Mist]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N28</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N28.mp3" length="17094646" type="audio/mpeg" />
+    <itunes:title>Lake Pavilion Mist</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Lake Pavilion Mist]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>28</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Mountain Hot Spring Night</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N29.mp3</link>
+    <description><![CDATA[Mountain Hot Spring Night]]></description>
+    <content:encoded><![CDATA[Mountain Hot Spring Night]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N29</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N29.mp3" length="19397097" type="audio/mpeg" />
+    <itunes:title>Mountain Hot Spring Night</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Mountain Hot Spring Night]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>29</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Spring Rain Midnight</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N30.mp3</link>
+    <description><![CDATA[Spring Rain Midnight]]></description>
+    <content:encoded><![CDATA[Spring Rain Midnight]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N30</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N30.mp3" length="15318435" type="audio/mpeg" />
+    <itunes:title>Spring Rain Midnight</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Spring Rain Midnight]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>30</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Summer Rice Paddy Night</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N31.mp3</link>
+    <description><![CDATA[Summer Rice Paddy Night]]></description>
+    <content:encoded><![CDATA[Summer Rice Paddy Night]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N31</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N31.mp3" length="19799041" type="audio/mpeg" />
+    <itunes:title>Summer Rice Paddy Night</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Summer Rice Paddy Night]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>31</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Autumn Chestnut Grove</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N32.mp3</link>
+    <description><![CDATA[Autumn Chestnut Grove]]></description>
+    <content:encoded><![CDATA[Autumn Chestnut Grove]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N32</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N32.mp3" length="19800063" type="audio/mpeg" />
+    <itunes:title>Autumn Chestnut Grove</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Autumn Chestnut Grove]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>32</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Late Spring Wisteria Night</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N33.mp3</link>
+    <description><![CDATA[Late Spring Wisteria Night]]></description>
+    <content:encoded><![CDATA[Late Spring Wisteria Night]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N33</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N33.mp3" length="20633457" type="audio/mpeg" />
+    <itunes:title>Late Spring Wisteria Night</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Late Spring Wisteria Night]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>33</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
@@ -811,7 +944,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Tea-Horse Road Mist]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>9:13</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>37</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -830,7 +963,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Minnan Courtyard Rain]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>9:32</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>38</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -849,7 +982,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Hunter's Cabin in the Pines]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>8:25</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>40</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>

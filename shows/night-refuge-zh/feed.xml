@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/</link>
   <language>zh-cn</language>
   <copyright>© 2026 夜栖</copyright>
-  <lastBuildDate>Fri, 15 May 2026 10:06:18 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 10:10:23 +0000</lastBuildDate>
   <description><![CDATA[夜栖 Night Refuge —— 写给成年人的睡前避难所。
 
 每集 8-12 分钟，温柔旁白 + 深夜环境音 + 古琴 lofi 钢琴，引导失眠的你慢慢放下白天的焦虑。
@@ -411,7 +411,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[海边小屋 · 潮汐]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>7:08</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>5</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -430,7 +430,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[古寺夜雨]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>7:31</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>7</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -449,7 +449,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[外婆夏夜庭院]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>6:53</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>8</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -468,7 +468,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[月光茉莉花园]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>7:03</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>9</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -487,7 +487,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[江南乌篷船]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>11:48</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>10</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -506,7 +506,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[雪原月光]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>12:49</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>11</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -525,7 +525,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[流萤夏夜]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>13:56</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>12</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -544,8 +544,27 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[老茶馆夜]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>13:08</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>13</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>阁楼旧物</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N14.mp3</link>
+    <description><![CDATA[阁楼旧物]]></description>
+    <content:encoded><![CDATA[阁楼旧物]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N14</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N14.mp3" length="15725032" type="audio/mpeg" />
+    <itunes:title>阁楼旧物</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[阁楼旧物]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>14</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
@@ -563,7 +582,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[灯塔守屋]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>10:04</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>15</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -582,7 +601,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[山中民宿]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>11:05</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>16</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -601,7 +620,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[古书堂雨夜]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>11:49</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>17</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -620,7 +639,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[竹林月夜]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>13:10</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>18</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -639,7 +658,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[沙漠星空]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>12:56</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>19</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -658,7 +677,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[苔原驯鹿夜]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>15:12</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>20</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -677,7 +696,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[樱花夜]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>9:06</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>21</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -696,7 +715,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[红叶溪流夜]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>11:16</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>22</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -715,7 +734,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[银杏古道]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>9:29</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>23</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -734,7 +753,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[古井深井院]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>10:11</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>24</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -753,7 +772,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[高山牧场]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>9:47</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>25</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -772,7 +791,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[渔村码头]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>9:40</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>26</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -791,8 +810,122 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[港口小船夜]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>9:38</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>27</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>湖心亭夜雾</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N28.mp3</link>
+    <description><![CDATA[湖心亭夜雾]]></description>
+    <content:encoded><![CDATA[湖心亭夜雾]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N28</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N28.mp3" length="18278233" type="audio/mpeg" />
+    <itunes:title>湖心亭夜雾</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[湖心亭夜雾]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>28</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>山间温泉夜</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N29.mp3</link>
+    <description><![CDATA[山间温泉夜]]></description>
+    <content:encoded><![CDATA[山间温泉夜]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N29</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N29.mp3" length="19043819" type="audio/mpeg" />
+    <itunes:title>山间温泉夜</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[山间温泉夜]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>29</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>春雨夜半时</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N30.mp3</link>
+    <description><![CDATA[春雨夜半时]]></description>
+    <content:encoded><![CDATA[春雨夜半时]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N30</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N30.mp3" length="20332574" type="audio/mpeg" />
+    <itunes:title>春雨夜半时</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[春雨夜半时]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>30</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>夏夜稻田</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N31.mp3</link>
+    <description><![CDATA[夏夜稻田]]></description>
+    <content:encoded><![CDATA[夏夜稻田]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N31</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N31.mp3" length="18885919" type="audio/mpeg" />
+    <itunes:title>夏夜稻田</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[夏夜稻田]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>31</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>秋夜栗子林</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N32.mp3</link>
+    <description><![CDATA[秋夜栗子林]]></description>
+    <content:encoded><![CDATA[秋夜栗子林]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N32</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N32.mp3" length="18800909" type="audio/mpeg" />
+    <itunes:title>秋夜栗子林</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[秋夜栗子林]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>32</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>晚春紫藤夜</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N33.mp3</link>
+    <description><![CDATA[晚春紫藤夜]]></description>
+    <content:encoded><![CDATA[晚春紫藤夜]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N33</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N33.mp3" length="19635131" type="audio/mpeg" />
+    <itunes:title>晚春紫藤夜</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[晚春紫藤夜]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>0:00</itunes:duration>
+    <itunes:episode>33</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
@@ -810,7 +943,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[茶马古道夜雾]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>9:58</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>37</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -829,7 +962,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[闽南老宅天井夜雨]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>10:15</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>38</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -848,7 +981,7 @@
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[林间猎人棚]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>8:06</itunes:duration>
+    <itunes:duration>0:00</itunes:duration>
     <itunes:episode>40</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
