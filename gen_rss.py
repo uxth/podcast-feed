@@ -96,8 +96,15 @@ def gen_feed(show_dir: Path, base_url: str) -> str:
             continue
         ep["__mp3_path"] = mp3_path
         ep["__mp3_size"] = mp3_path.stat().st_size
+        # v2 容错：duration_seconds 缺失时回退到 duration_s（早期 yaml schema），仍缺再 ffprobe
         if not ep.get("duration_seconds"):
-            ep["duration_seconds"] = ffprobe_duration(mp3_path)
+            if ep.get("duration_s"):
+                ep["duration_seconds"] = int(float(ep["duration_s"]))
+            else:
+                probed = ffprobe_duration(mp3_path)
+                if probed <= 0:
+                    print(f"⚠️  {ep['episode_id']}: no duration_seconds/duration_s in yaml AND ffprobe failed/missing — RSS will show 0:00", file=sys.stderr)
+                ep["duration_seconds"] = probed
         episodes.append(ep)
 
     # Sort by episode_number descending (newest first per RSS convention)
