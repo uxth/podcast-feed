@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/</link>
   <language>en-us</language>
   <copyright>© 2026 Night Refuge</copyright>
-  <lastBuildDate>Fri, 15 May 2026 11:20:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 11:48:55 +0000</lastBuildDate>
   <description><![CDATA[Night Refuge — A bedtime shelter for the modern mind.
 
 8–12 minutes per episode. Gentle voice, ambient soundscape, soft guqin and lofi piano, guiding you to release the day's anxieties and slip into sleep.
@@ -933,12 +933,12 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <content:encoded><![CDATA[Spring Rain Midnight]]></content:encoded>
     <guid isPermaLink="false">night-refuge-en-N30</guid>
     <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N30.mp3" length="20857942" type="audio/mpeg" />
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N30.mp3" length="19897355" type="audio/mpeg" />
     <itunes:title>Spring Rain Midnight</itunes:title>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Spring Rain Midnight]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>12:35</itunes:duration>
+    <itunes:duration>11:55</itunes:duration>
     <itunes:episode>30</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -1003,6 +1003,44 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
   </item>
   <item>
+    <title>Grassland Yurt Night</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N34.mp3</link>
+    <description><![CDATA[Grassland Yurt Night]]></description>
+    <content:encoded><![CDATA[Grassland Yurt Night]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N34</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N34.mp3" length="19467131" type="audio/mpeg" />
+    <itunes:title>Grassland Yurt Night</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Grassland Yurt Night]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>11:55</itunes:duration>
+    <itunes:episode>34</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Jiangnan Watertown Bridge Night</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N36.mp3</link>
+    <description><![CDATA[Jiangnan Watertown Bridge Night]]></description>
+    <content:encoded><![CDATA[Jiangnan Watertown Bridge Night]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N36</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N36.mp3" length="19341840" type="audio/mpeg" />
+    <itunes:title>Jiangnan Watertown Bridge Night</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Jiangnan Watertown Bridge Night]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>11:47</itunes:duration>
+    <itunes:episode>36</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
     <title>Tea-Horse Road Mist</title>
     <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N37.mp3</link>
     <description><![CDATA[Tea-Horse Road Mist]]></description>
@@ -1041,6 +1079,25 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
   </item>
   <item>
+    <title>Mountaintop Weather Station</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N39.mp3</link>
+    <description><![CDATA[Mountaintop Weather Station]]></description>
+    <content:encoded><![CDATA[Mountaintop Weather Station]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N39</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N39.mp3" length="19357397" type="audio/mpeg" />
+    <itunes:title>Mountaintop Weather Station</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Mountaintop Weather Station]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>11:55</itunes:duration>
+    <itunes:episode>39</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
     <title>Hunter's Cabin in the Pines</title>
     <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N40.mp3</link>
     <description><![CDATA[Hunter's Cabin in the Pines]]></description>
@@ -1054,6 +1111,44 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
     <itunes:duration>8:25</itunes:duration>
     <itunes:episode>40</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Old Library Rain Night</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N41.mp3</link>
+    <description><![CDATA[Old Library Rain Night]]></description>
+    <content:encoded><![CDATA[Old Library Rain Night]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N41</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N41.mp3" length="19616094" type="audio/mpeg" />
+    <itunes:title>Old Library Rain Night</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Old Library Rain Night]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>11:55</itunes:duration>
+    <itunes:episode>41</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
+  </item>
+  <item>
+    <title>Old Train Platform Night</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N42.mp3</link>
+    <description><![CDATA[Old Train Platform Night]]></description>
+    <content:encoded><![CDATA[Old Train Platform Night]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-en-N42</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N42.mp3" length="19469564" type="audio/mpeg" />
+    <itunes:title>Old Train Platform Night</itunes:title>
+    <itunes:author>Night Refuge</itunes:author>
+    <itunes:summary><![CDATA[Old Train Platform Night]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>11:55</itunes:duration>
+    <itunes:episode>42</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>

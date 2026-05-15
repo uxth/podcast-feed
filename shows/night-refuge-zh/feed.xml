@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/</link>
   <language>zh-cn</language>
   <copyright>© 2026 夜栖</copyright>
-  <lastBuildDate>Fri, 15 May 2026 11:20:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 11:48:58 +0000</lastBuildDate>
   <description><![CDATA[夜栖 Night Refuge —— 写给成年人的睡前避难所。
 
 每集 8-12 分钟，温柔旁白 + 深夜环境音 + 古琴 lofi 钢琴，引导失眠的你慢慢放下白天的焦虑。
@@ -932,12 +932,12 @@
     <content:encoded><![CDATA[春雨午夜]]></content:encoded>
     <guid isPermaLink="false">night-refuge-zh-N30</guid>
     <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N30.mp3" length="20332574" type="audio/mpeg" />
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N30.mp3" length="19876046" type="audio/mpeg" />
     <itunes:title>春雨午夜</itunes:title>
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[春雨午夜]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:duration>12:14</itunes:duration>
+    <itunes:duration>11:55</itunes:duration>
     <itunes:episode>30</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
@@ -1002,6 +1002,44 @@
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
   </item>
   <item>
+    <title>草原毡帐夜</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N34.mp3</link>
+    <description><![CDATA[草原毡帐夜]]></description>
+    <content:encoded><![CDATA[草原毡帐夜]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N34</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N34.mp3" length="19024469" type="audio/mpeg" />
+    <itunes:title>草原毡帐夜</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[草原毡帐夜]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>11:37</itunes:duration>
+    <itunes:episode>34</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>江南古镇石桥夜</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N36.mp3</link>
+    <description><![CDATA[江南古镇石桥夜]]></description>
+    <content:encoded><![CDATA[江南古镇石桥夜]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N36</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N36.mp3" length="18742086" type="audio/mpeg" />
+    <itunes:title>江南古镇石桥夜</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[江南古镇石桥夜]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>11:21</itunes:duration>
+    <itunes:episode>36</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
     <title>茶马古道夜雾</title>
     <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N37.mp3</link>
     <description><![CDATA[茶马古道夜雾]]></description>
@@ -1040,6 +1078,25 @@
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
   </item>
   <item>
+    <title>山顶气象站</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N39.mp3</link>
+    <description><![CDATA[山顶气象站]]></description>
+    <content:encoded><![CDATA[山顶气象站]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N39</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N39.mp3" length="19364750" type="audio/mpeg" />
+    <itunes:title>山顶气象站</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[山顶气象站]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>11:55</itunes:duration>
+    <itunes:episode>39</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
     <title>林间猎人棚</title>
     <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N40.mp3</link>
     <description><![CDATA[林间猎人棚]]></description>
@@ -1053,6 +1110,44 @@
     <itunes:subtitle></itunes:subtitle>
     <itunes:duration>8:06</itunes:duration>
     <itunes:episode>40</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>古书堂雨夜</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N41.mp3</link>
+    <description><![CDATA[古书堂雨夜]]></description>
+    <content:encoded><![CDATA[古书堂雨夜]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N41</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N41.mp3" length="19611802" type="audio/mpeg" />
+    <itunes:title>古书堂雨夜</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[古书堂雨夜]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>11:55</itunes:duration>
+    <itunes:episode>41</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
+  </item>
+  <item>
+    <title>老式火车站台夜</title>
+    <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N42.mp3</link>
+    <description><![CDATA[老式火车站台夜]]></description>
+    <content:encoded><![CDATA[老式火车站台夜]]></content:encoded>
+    <guid isPermaLink="false">night-refuge-zh-N42</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N42.mp3" length="19497058" type="audio/mpeg" />
+    <itunes:title>老式火车站台夜</itunes:title>
+    <itunes:author>夜栖</itunes:author>
+    <itunes:summary><![CDATA[老式火车站台夜]]></itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:duration>11:55</itunes:duration>
+    <itunes:episode>42</itunes:episode>
     <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
