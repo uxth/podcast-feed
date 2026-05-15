@@ -50,16 +50,32 @@ jobs:
           path: .
 
       - name: Commit updated feed.xml back to main
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add shows/*/feed.xml
           if git diff --staged --quiet; then
             echo "No feed.xml changes to commit"
-          else
-            git commit -m "chore(feeds): auto-regenerate RSS feeds [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "chore(feeds): auto-regenerate RSS feeds [skip ci]"
+          # 重试 push, 处理并发 push 导致的 non-fast-forward
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt failed, rebasing..."
+            git pull --rebase origin main || {
+              echo "rebase failed, aborting"
+              git rebase --abort 2>/dev/null || true
+              break
+            }
+            sleep $((attempt * 2))
+          done
+          echo "WARNING: feed.xml auto-commit failed after retries; deploy will still proceed."
+          exit 0
 
   deploy:
     needs: build
