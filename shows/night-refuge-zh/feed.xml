@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/</link>
   <language>zh-cn</language>
   <copyright>© 2026 夜栖</copyright>
-  <lastBuildDate>Fri, 15 May 2026 10:10:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 10:20:21 +0000</lastBuildDate>
   <description><![CDATA[夜栖 Night Refuge —— 写给成年人的睡前避难所。
 
 每集 8-12 分钟，温柔旁白 + 深夜环境音 + 古琴 lofi 钢琴，引导失眠的你慢慢放下白天的焦虑。
@@ -856,16 +856,16 @@
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
   </item>
   <item>
-    <title>春雨夜半时</title>
+    <title>春雨午夜</title>
     <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N30.mp3</link>
-    <description><![CDATA[春雨夜半时]]></description>
-    <content:encoded><![CDATA[春雨夜半时]]></content:encoded>
+    <description><![CDATA[春雨午夜]]></description>
+    <content:encoded><![CDATA[春雨午夜]]></content:encoded>
     <guid isPermaLink="false">night-refuge-zh-N30</guid>
     <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N30.mp3" length="20332574" type="audio/mpeg" />
-    <itunes:title>春雨夜半时</itunes:title>
+    <itunes:title>春雨午夜</itunes:title>
     <itunes:author>夜栖</itunes:author>
-    <itunes:summary><![CDATA[春雨夜半时]]></itunes:summary>
+    <itunes:summary><![CDATA[春雨午夜]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
     <itunes:duration>0:00</itunes:duration>
     <itunes:episode>30</itunes:episode>
@@ -881,7 +881,7 @@
     <content:encoded><![CDATA[夏夜稻田]]></content:encoded>
     <guid isPermaLink="false">night-refuge-zh-N31</guid>
     <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N31.mp3" length="18885919" type="audio/mpeg" />
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N31.mp3" length="18885963" type="audio/mpeg" />
     <itunes:title>夏夜稻田</itunes:title>
     <itunes:author>夜栖</itunes:author>
     <itunes:summary><![CDATA[夏夜稻田]]></itunes:summary>
@@ -913,16 +913,16 @@
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/cover.jpg" />
   </item>
   <item>
-    <title>晚春紫藤夜</title>
+    <title>暮春紫藤</title>
     <link>https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N33.mp3</link>
-    <description><![CDATA[晚春紫藤夜]]></description>
-    <content:encoded><![CDATA[晚春紫藤夜]]></content:encoded>
+    <description><![CDATA[暮春紫藤]]></description>
+    <content:encoded><![CDATA[暮春紫藤]]></content:encoded>
     <guid isPermaLink="false">night-refuge-zh-N33</guid>
     <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N33.mp3" length="19635131" type="audio/mpeg" />
-    <itunes:title>晚春紫藤夜</itunes:title>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-zh/episodes/N33.mp3" length="19635173" type="audio/mpeg" />
+    <itunes:title>暮春紫藤</itunes:title>
     <itunes:author>夜栖</itunes:author>
-    <itunes:summary><![CDATA[晚春紫藤夜]]></itunes:summary>
+    <itunes:summary><![CDATA[暮春紫藤]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
     <itunes:duration>0:00</itunes:duration>
     <itunes:episode>33</itunes:episode>

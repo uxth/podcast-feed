@@ -10,7 +10,7 @@
   <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/</link>
   <language>en-us</language>
   <copyright>© 2026 Night Refuge</copyright>
-  <lastBuildDate>Fri, 15 May 2026 10:10:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 10:20:21 +0000</lastBuildDate>
   <description><![CDATA[Night Refuge — A bedtime shelter for the modern mind.
 
 8–12 minutes per episode. Gentle voice, ambient soundscape, soft guqin and lofi piano, guiding you to release the day's anxieties and slip into sleep.
@@ -863,7 +863,7 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <content:encoded><![CDATA[Spring Rain Midnight]]></content:encoded>
     <guid isPermaLink="false">night-refuge-en-N30</guid>
     <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N30.mp3" length="15318435" type="audio/mpeg" />
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N30.mp3" length="20857942" type="audio/mpeg" />
     <itunes:title>Spring Rain Midnight</itunes:title>
     <itunes:author>Night Refuge</itunes:author>
     <itunes:summary><![CDATA[Spring Rain Midnight]]></itunes:summary>
@@ -876,16 +876,16 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
   </item>
   <item>
-    <title>Summer Rice Paddy Night</title>
+    <title>Summer Rice Paddy</title>
     <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N31.mp3</link>
-    <description><![CDATA[Summer Rice Paddy Night]]></description>
-    <content:encoded><![CDATA[Summer Rice Paddy Night]]></content:encoded>
+    <description><![CDATA[Summer Rice Paddy]]></description>
+    <content:encoded><![CDATA[Summer Rice Paddy]]></content:encoded>
     <guid isPermaLink="false">night-refuge-en-N31</guid>
     <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N31.mp3" length="19799041" type="audio/mpeg" />
-    <itunes:title>Summer Rice Paddy Night</itunes:title>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N31.mp3" length="19799099" type="audio/mpeg" />
+    <itunes:title>Summer Rice Paddy</itunes:title>
     <itunes:author>Night Refuge</itunes:author>
-    <itunes:summary><![CDATA[Summer Rice Paddy Night]]></itunes:summary>
+    <itunes:summary><![CDATA[Summer Rice Paddy]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
     <itunes:duration>0:00</itunes:duration>
     <itunes:episode>31</itunes:episode>
@@ -914,16 +914,16 @@ Feedback: dingqing1981@gmail.com]]></itunes:summary>
     <itunes:image href="https://uxth.github.io/podcast-feed/shows/night-refuge-en/cover.jpg" />
   </item>
   <item>
-    <title>Late Spring Wisteria Night</title>
+    <title>Late Spring Wisteria</title>
     <link>https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N33.mp3</link>
-    <description><![CDATA[Late Spring Wisteria Night]]></description>
-    <content:encoded><![CDATA[Late Spring Wisteria Night]]></content:encoded>
+    <description><![CDATA[Late Spring Wisteria]]></description>
+    <content:encoded><![CDATA[Late Spring Wisteria]]></content:encoded>
     <guid isPermaLink="false">night-refuge-en-N33</guid>
     <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N33.mp3" length="20633457" type="audio/mpeg" />
-    <itunes:title>Late Spring Wisteria Night</itunes:title>
+    <enclosure url="https://uxth.github.io/podcast-feed/shows/night-refuge-en/episodes/N33.mp3" length="20633518" type="audio/mpeg" />
+    <itunes:title>Late Spring Wisteria</itunes:title>
     <itunes:author>Night Refuge</itunes:author>
-    <itunes:summary><![CDATA[Late Spring Wisteria Night]]></itunes:summary>
+    <itunes:summary><![CDATA[Late Spring Wisteria]]></itunes:summary>
     <itunes:subtitle></itunes:subtitle>
     <itunes:duration>0:00</itunes:duration>
     <itunes:episode>33</itunes:episode>
